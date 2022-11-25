@@ -4,7 +4,7 @@
 <img src="/img/groth5.png" width="550" height="480"/>
 </p>
 
-A. Grothendieck (28 March 1928 – 13 November 2014) was an influential mathematician and spiritual of the XXth century.
+***A. Grothendieck (28 March 1928 – 13 November 2014) was an influential mathematician and spiritual of the XXth century***.
 
 ---
 
