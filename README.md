@@ -10,7 +10,7 @@ A. Grothendieck (28 March 1928 – 13 November 2014) was an influential mathemat
 
 - [Instituto Grothendieck](https://igrothendieck.org/)
 - [Thèmes pour une Harmonie](https://agrothendieck.github.io/)
-- [Archives Grothendieck](https://grothendieck.umontpellier.fr/) Montpellier
+- [Archives Grothendieck](https://grothendieck.umontpellier.fr/)
 
 
 <!-- 
