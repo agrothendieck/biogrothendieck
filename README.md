@@ -30,7 +30,6 @@ http://matematicas.unex.es/~navarro/res/biografia.pdf
 
 http://matematicas.unex.es/~navarro/res/
 
-https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
  
  -->
  
@@ -41,10 +40,12 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 
 ### Biographic
 
-- W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? Anarchy, Mathematics, Spirituality, Solitude)
+- W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? [Anarchy](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/Anarchy.pdf), [Mathematics](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics.html), [Spirituality](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality.html), Solitude)
 - F. ZALAMEA. [*Grothendieck. Una guía a la obra matemática y filosofica*](http://matematicas.unex.es/~navarro/res/zalamea.pdf). Bogotá: Edtorial Nomos, 2019.
 - W. SCHARLAU. [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
-- P. CARTIER. *A country of which nothing is known but the name: Grothendieck and "motives"*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. 
+- ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
+- Alexandre Grothendieck 1928–2014, [Part 1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS1.pdf), [Part 2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS2.pdf). Obituary AMS
+- P. CARTIER. *A country of which nothing is known but the name: Grothendieck and "motives"*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
 - ---, *A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry* (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
 - F. OORT. *Did earlier thoughts inspire Grothendieck?*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - R. HARTSHORNE. *An apprenticeship*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
@@ -63,12 +64,18 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - ---, [*Quelques corrections à un entretien de Jean-Pierre Bourguignon au sujet de Récoltes et Semailles*](https://www.laurentlafforgue.org/Corrections_Lafforgue_entretien_Bourguignon_Grothendieck_RS.pdf). Il s'agit d'un entretien donné en février 2022 à la revue ``Pour la science''. Des erreurs qu'il contient méritent d'autant plus d'être corrigées qu'elles sont représentatives de celles qui sont souvent colportées et circulent dans le monde académique à propos de Grothendieck et de Récoltes et Semailles. 
 - CALEB JI. [*Elements of Grothendieck's life and work*](https://math.columbia.edu/~calebji/Grothendieck.pdf). Talk
 - P. DELIGNE. *Interview for the Abel Prize*, Notices of AMS 61, 177 – 185
-- *Une entrevue avec Jean Giraud, à Propos d'Alexandre Grothendieck*, Le Journal de Maths 1, 63 – 65 (1994)
+- [*Une entrevue avec Jean Giraud, à Propos d'Alexandre Grothendieck*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/giraud.pdf), Le Journal de Maths 1, 63 – 65 (1994)
 - C. BOSCH y C.L GARCÍA. [*Alexandre Grothendieck: de la luz a la sombra*](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.b9518e821ad100a4.363230342e706466.pdf). Miscelánea Matemática 62 (2016) 45-61 
 - G. DEPAMBOUR. [L'héritage d'Alexandre Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Depambour.pdf), published in Science et Vie, April 2018.
+- A. HERREMAN. [*Découvrir et transmettre: la dimension collective des mathématiques dans Récoltes et Semailles d'Alexandre Grothendieck*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/aherreman.pdf) 
 - L. SCHWARTZ. *A Mathematicien Grappling with His Century*, Birkhäuser, 2001.
 - D. AUBIN. *A Cultural History of Catastrophes and Chaos: Around the Institut des Hautes Études Scientifiques*, France 1958-1980, Ph. D. thesis (Princeton University) 
 - D. RUELLE. *The Mathematician's Brain: A Personal Tour Through the Essentials of Mathematics and Some of the Great Minds Behind Them*. Princeton: Princeton University Press. 2007
+- [*Notes on the life and work of Alexander Grothendieck*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/pragacz.pdf). P Pragacz, originally published in Polish in Wiadomo´sci Matematyczne 40 (2004). 
+- [*Grothendieck no Brasil*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/azevedo.pdf). Memories (in Portuguese) of Grothendieck's stay in São Paulo, 1952-1954, by Alberto de Azevedo.
+- [*On Grothendieck's motive and Cezanne's motif*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/chinese.pdf), an article (in Chinese) by Kejian Xu, published in the Chinese journal "Mathematical Culture" (Vol. 3, No. 2, 12-33, 2012).
+- Y. LADEGAILLERIE. [*Alexandre Grothendieck après 1970*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Ladegaillerie.pdf). 
+- L. NARVAEZ. [*En recuerdo de Alexander Grothendieck: Prólogo para una lectura de su vida y obra*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Narvaez.pdf). La Gaceta de la RSME, Vol. 20 (2017), Núm. 2, Págs. 297–324
 
 
 
@@ -81,10 +88,14 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
 - L. LAFFORGUE, [*Geometry according to Grothendieck : glimpses from Récoltes et Semailles*](https://www.laurentlafforgue.org/Cours_Lafforgue_Como_septembre_2021.pdf). Ce sont les transparents d'un cours donné en septembre 2021 à Como, à la Villa Del Grumello, dans le cadre d'une école d'été organisée avec Olivia Caramello et Ivan Fesenko sous le titre ``Unifying themes in geometry''.
 - J. TATE. Boekbespreking [*Correspondance Grothendieck-Serre*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/TateReview.pdf). NAW 5/5 nr. 1 maart 2004 
-- P. DELIGNE. *Quelques idées maîtresses de l'œuvre de A. Grothendieck*, in Matériaux pour l'Histoire des Mathématiques au XXe Siècle (Nice, 1996), Soc. Math. France, 1998, pp. 11–19.
+- P. DELIGNE. [*Quelques idées maîtresses de l'œuvre de A. Grothendieck*](https://publications.ias.edu/sites/default/files/77_Quelqyesidees.pdf), in Matériaux pour l'Histoire des Mathématiques au XXe Siècle (Nice, 1996), Soc. Math. France, 1998, pp. 11–19.
 - L. SCHNEPS. *A review of the Grothendieck-Serre Correspondence: "Long version" - "Short version"*. Reprinted from the Mathematical Intelligencer, Vol. 29 No. 4, 2007.
 - [Tōhoku](https://inference-review.com/article/tohoku), Rick Jardine. Inference Review
 - J.A CRUZ. *[The notion of space in Grothendieck](https://arxiv.org/pdf/2105.08799.pdf): From schemes to a geometry of forms*. arXiv:2105.08799v1 [math.AG]
+- L A TARRÍO y A JEREMÍAS. [*La obra de Alexander Grothendieck*](https://gaceta.rsme.es/abrir.php?id=183). La Gaceta de la RSME 4 (2001), no. 3, 623–638.
+- E GIRONDO, G GONZÁLES-DIEZ y D.T TEIGELL. [*La teoría de Belyi-Grothendieck de dessins d’enfants*](https://gaceta.rsme.es/abrir.php?id=1672) La Gaceta de la RSME, Vol. 25 (2022), Núm. 1, Págs. 55–83 
+
+
 
 
 ### Multimedia
@@ -97,20 +108,24 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - La Méthode Scientifique broadcast [L'héritage d'Alexandre Grothendieck](https://www.franceculture.fr/emissions/la-methode-scientifique/lheritage-dalexandre-grothendieck) with Pierre Cartier, Claude Viterbo and Anne-Sandrine Paumier. 
 - [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
 - [Le génie Grothendieck raconté par Leïla Schneps](https://youtu.be/V8BbFTEyvIw), Directrice de recherche CNRS. Thé & Sciences
-
-
+- Mini Curso: [Grothendieck, una guía a la obra matemática](https://youtube.com/playlist?list=PLiD-IJzweXR9ndmvpYnoqBJwAQFE778zv) (Fernando Zalamea)
+- [Lectures grothendieckiennes](https://youtube.com/playlist?list=PLDW2ZNtGxGvdYObK8UDN-1YtYa0xFgLyc)
 
 
 
 
 ### Mass media
 
+- [Can one explain schemes to biologists](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html). D Mumford and J Tate. Blog
+- [Alexander Grothendieck](https://mathshistory.st-andrews.ac.uk/Obituaries/Grothendieck_Telegraph/), Telegraph obituary
 - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician), The New Yorker
+- [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), The Guardian
 Alexander Grothendieck was revered for revealing connections between seemingly unrelated realms. Then he dropped out of society. By Rivka Galchen
 - [The Man of the Circular Ruins](https://theanarchistlibrary.org/library/konstantinos-foutzopoulos-the-man-of-the-circular-ruins?v=1620246019), Konstantinos Foutzopoulos
 - [Can one explain schemes to biologists](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html). Alexander Grothendieck by David Mumford and John Tate
 - [Alexandre Grothendieck. Un voyage à la poursuite des choses évidentes](https://images.math.cnrs.fr/Alexandre-Grothendieck?lang=fr), P Douroux
-- [Grothendieck et Montpellier](https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr), J-P Kahane \item \href{https://reporterre.net/Pour-Grothendieck-l-urgence}{Entretien avec Christian Escriva}. Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
+- [Grothendieck et Montpellier](https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr), J-P Kahane 
+- [Entretien avec Christian Escriva](https://reporterre.net/Pour-Grothendieck-l-urgence). Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
 - [A. Grothendieck](https://www.atrio.org/category/grothendieck/) en Atrio
 - [My Encounter with Grothendieck](http://www.ccnr.org/encounter.html), G Edwards
 - [Grothendieck : un héritage mathématique fertile](https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-heritage-mathematique-fertile-9237.php), J Malgoire
@@ -128,6 +143,7 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [Le règlement de comptes posthume du génie mathématique Alexandre Grothendieck](https://www.lemonde.fr/sciences/article/2022/03/15/le-reglement-de-comptes-posthume-du-genie-mathematique-alexandre-grothendieck_6117548_1650684.html), D Larousserie
 - [Alexandre Grothendieck, un critique radical de la science](https://www.lemonde.fr/sciences/article/2022/03/15/alexandre-grothendieck-un-critique-radical-de-la-science_6117532_1650684.html), D Larousserie
 - [Alexandre Grothendieck : une mathématique en cathédrale gothique](https://www.lemonde.fr/sciences/article/2019/05/06/alexandre-grothendieck-une-mathematique-en-cathedrale-gothique_5459035_1650684.html), P Douroux
+- [Mais où est le génie des maths ?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/ikonikoff.pdf) R Ikonikoff
 - [Trésor scientifique ou vieux papiers illisibles ? Les mystérieuses archives d'Alexandre Grothendieck](https://www.lemonde.fr/sciences/article/2019/05/06/les-archives-insaisissables-d-alexandre-grothendieck_5459049_1650684.html), P Douroux
 - [Des manuscrits inédits du génie des maths Alexandre Grothendieck bientôt numérisés](https://www.lemonde.fr/sciences/article/2015/06/17/des-milliers-de-manuscrits-du-genie-des-maths-alexandre-grothendieck-bientot-numerises_4656174_1650684.html), S Foucart
 - [Alexandre Grothendieck : le génie des maths qui accoucha de l'écologie](https://www.lejdd.fr/Societe/alexandre-grothendieck-le-genie-des-maths-qui-accoucha-de-lecologie-3992788?Echobox=1600844733#utm_medium=Social&xtor=CS1-4&utm_source=Twitter), A Nazaret
