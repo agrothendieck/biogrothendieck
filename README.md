@@ -41,12 +41,12 @@ http://matematicas.unex.es/~navarro/res/
 ### Biographic
 
 - W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? [Anarchy](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/Anarchy.pdf), [Mathematics](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics.html), [Spirituality](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality.html), Solitude)
+    - ---, [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
+    - ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
 - F. ZALAMEA. [*Grothendieck. Una guía a la obra matemática y filosofica*](http://matematicas.unex.es/~navarro/res/zalamea.pdf). Bogotá: Edtorial Nomos, 2019.
-- W. SCHARLAU. [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
-- ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
 - Alexandre Grothendieck 1928–2014, [Part 1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS1.pdf), [Part 2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS2.pdf). Obituary AMS
 - P. CARTIER. *A country of which nothing is known but the name: Grothendieck and "motives"*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
-- ---, *A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry* (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
+    - ---, *A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry* (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
 - F. OORT. *Did earlier thoughts inspire Grothendieck?*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - R. HARTSHORNE. *An apprenticeship*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - V POÉNARU. [*Memories of Shourik*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/poenaru.pdf). Notices of the AMS, September 2008.
@@ -55,13 +55,13 @@ http://matematicas.unex.es/~navarro/res/
 - C. MCLARTY. *The rising sea: Grothendieck on simplicity and generality I*, in Jeremy Gray and Karen Parshall, editors, Episodes in the History of Recent Algebra, American Mathematical Society, 2007, pp. 301–26
 - P.J HORMIÈRE. [*Alexandre Grothendieck. Eléments de biographie*](https://lescoursdemathsdepjh.monsite-orange.fr/file/4c6a4357774ca8a90405161a7e6efd18.pdf). 
 - A. JACKSON. *Comme Appelé du Néant: As if Summoned from the Void: The Life of Alexandre Grothendieck*. [Part 1, October 2004](http://www.ams.org/notices/200409/fea-grothendieck-part1.pdf). [Part 2, November 2004](http://www.ams.org/notices/200410/fea-grothendieck-part2.pdf). Notices of the AMS
-- ---, [*Grothendieck at 80, IHES at 50*](http://www.ams.org/notices/200808/tx080800962p.pdf). September 2008. Notices of the AMS
-- ---, [*Interview with Alain Connes*](https://celebratio.org/Connes_A/article/842/), Celebratio  Mathematica, February 2021
-- ---, [*Interview with Heisuke Hironaka*](http://www.ams.org/notices/200509/fea-hironaka.pdf). October 2005. Notices of the AMS
-- ---, [*Interview with Raoul Bott*](https://www.ams.org/publications/journals/all/fea-bott.pdf). April 2001. Notices of the AMS
+     - ---, [*Grothendieck at 80, IHES at 50*](http://www.ams.org/notices/200808/tx080800962p.pdf). September 2008. Notices of the AMS
+     - ---, [*Interview with Alain Connes*](https://celebratio.org/Connes_A/article/842/), Celebratio  Mathematica, February 2021
+     - ---, [*Interview with Heisuke Hironaka*](http://www.ams.org/notices/200509/fea-hironaka.pdf). October 2005. Notices of the AMS
+     - ---, [*Interview with Raoul Bott*](https://www.ams.org/publications/journals/all/fea-bott.pdf). April 2001. Notices of the AMS
 - L. B VIALE. [*Alexander Grothendieck. Enthusiasm and Creativity*](http://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathbiographies/barbierieng.pdf) in Mathematical Lives (Springer, 2011) translation [*Alexander Grothendieck. Entusiasmo e creatività*](http://users.unimi.it/barbieri/grothendieck.pdf) article contained in the volume Vite matematiche (Springer, 2007) previously published as Grandi Matematici del Novecento (Vol. 50/51 Lettera Matematica Pristem, Springer) 
 - L. LAFFORGUE. [*Grothendieck et la liberté*](http://users.unimi.it/barbieri/GrothendieckLiberte.pdf) (Séminaire Grothendieck - March 23, 2015) and the italian version by Ugo Moschella [*Grothendieck e la libertà*](http://users.unimi.it/barbieri/LafforgueMilano.pdf). 
-- ---, [*Quelques corrections à un entretien de Jean-Pierre Bourguignon au sujet de Récoltes et Semailles*](https://www.laurentlafforgue.org/Corrections_Lafforgue_entretien_Bourguignon_Grothendieck_RS.pdf). Il s'agit d'un entretien donné en février 2022 à la revue ``Pour la science''. Des erreurs qu'il contient méritent d'autant plus d'être corrigées qu'elles sont représentatives de celles qui sont souvent colportées et circulent dans le monde académique à propos de Grothendieck et de Récoltes et Semailles. 
+     - ---, [*Quelques corrections à un entretien de Jean-Pierre Bourguignon au sujet de Récoltes et Semailles*](https://www.laurentlafforgue.org/Corrections_Lafforgue_entretien_Bourguignon_Grothendieck_RS.pdf). Il s'agit d'un entretien donné en février 2022 à la revue ``Pour la science''. Des erreurs qu'il contient méritent d'autant plus d'être corrigées qu'elles sont représentatives de celles qui sont souvent colportées et circulent dans le monde académique à propos de Grothendieck et de Récoltes et Semailles. 
 - CALEB JI. [*Elements of Grothendieck's life and work*](https://math.columbia.edu/~calebji/Grothendieck.pdf). Talk
 - P. DELIGNE. *Interview for the Abel Prize*, Notices of AMS 61, 177 – 185
 - [*Une entrevue avec Jean Giraud, à Propos d'Alexandre Grothendieck*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/giraud.pdf), Le Journal de Maths 1, 63 – 65 (1994)
@@ -84,7 +84,7 @@ http://matematicas.unex.es/~navarro/res/
 - *The Grothendieck Festschrift*. In honor of the 60th birthday (1988) of Alexander Grothendieck, published by Birkhäuser in series Progress in Mathematics in 1990 as volumes 86, 87, 88.
 - *Alexandre Grothendieck: A Mathematical Portrait*. Edited by Leila Schneps.
 - J. DIEUDONNÉ. [*A. Grothendieck's Early Work (1950-1960)*](https://agrothendieck.github.io/divers/GrothDieud89scan.pdf). (1989). K-Theory, vol. 3, p. 299–306.
-- ---, [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
+     - ---, [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
 - J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
 - L. LAFFORGUE, [*Geometry according to Grothendieck : glimpses from Récoltes et Semailles*](https://www.laurentlafforgue.org/Cours_Lafforgue_Como_septembre_2021.pdf). Ce sont les transparents d'un cours donné en septembre 2021 à Como, à la Villa Del Grumello, dans le cadre d'une école d'été organisée avec Olivia Caramello et Ivan Fesenko sous le titre ``Unifying themes in geometry''.
 - J. TATE. Boekbespreking [*Correspondance Grothendieck-Serre*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/TateReview.pdf). NAW 5/5 nr. 1 maart 2004 
