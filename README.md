@@ -39,7 +39,7 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
  
 --- 
 
-### Books and articles
+### Biographic
 
 - W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? Anarchy, Mathematics, Spirituality, Solitude)
 - *The Grothendieck Festschrift*. In honor of the 60th birthday (1988) of Alexander Grothendieck, published by Birkhäuser in series Progress in Mathematics in 1990 as volumes 86, 87, 88.
@@ -48,9 +48,6 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - W. SCHARLAU. [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
 - P. CARTIER. *A country of which nothing is known but the name: Grothendieck and "motives"*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. 
 - ---, *A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry* (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
-- J. DIEUDONNÉ. [*A. Grothendieck's Early Work (1950-1960)*](https://agrothendieck.github.io/divers/GrothDieud89scan.pdf). (1989). K-Theory, vol. 3, p. 299–306.
-- ---, [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
-- J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
 - F. OORT. *Did earlier thoughts inspire Grothendieck?*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - R. HARTSHORNE. *An apprenticeship*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - V POÉNARU. [*Memories of Shourik*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/poenaru.pdf). Notices of the AMS, September 2008.
@@ -78,12 +75,16 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - L. SCHWARTZ. *A Mathematicien Grappling with His Century*, Birkhäuser, 2001.
 - D. AUBIN. *A Cultural History of Catastrophes and Chaos: Around the Institut des Hautes Études Scientifiques*, France 1958-1980, Ph. D. thesis (Princeton University) 
 - D. RUELLE. *The Mathematician's Brain: A Personal Tour Through the Essentials of Mathematics and Some of the Great Minds Behind Them*. Princeton: Princeton University Press. 2007
-- J.A CRUZ. *[The notion of space in Grothendieck](https://arxiv.org/pdf/2105.08799.pdf): From schemes to a geometry of forms*. arXiv:2105.08799v1 [math.AG]
 
 
 
+### Mathematics
 
-
+- J. DIEUDONNÉ. [*A. Grothendieck's Early Work (1950-1960)*](https://agrothendieck.github.io/divers/GrothDieud89scan.pdf). (1989). K-Theory, vol. 3, p. 299–306.
+- ---, [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
+- J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
+- [Tōhoku](https://inference-review.com/article/tohoku), Rick Jardine. Inference Review
+- - J.A CRUZ. *[The notion of space in Grothendieck](https://arxiv.org/pdf/2105.08799.pdf): From schemes to a geometry of forms*. arXiv:2105.08799v1 [math.AG]
 
 
 ### Multimedia
