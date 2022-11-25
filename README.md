@@ -4,9 +4,13 @@
 <img src="/img/groth5.png" width="550" height="480"/>
 </p>
 
-Small biographic desc
+A. Grothendieck (28 March 1928 – 13 November 2014) was an influential mathematician and spiritual of the XXth century.
 
+---
 
+- [Instituto Grothendieck](https://igrothendieck.org/)
+- [Thèmes pour une Harmonie](https://agrothendieck.github.io/)
+- [Archives Grothendieck](https://grothendieck.umontpellier.fr/) Montpellier
 
 
 <!-- 
@@ -16,13 +20,17 @@ To be included
 https://sites.unimi.it/barbieri/SG.html
 https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTHENDIECK.pdf 
 
-% https://www.college-de-france.fr/sites/default/files/media/document/2022-10/Jean-Pierre%20Serre-Articles%20en%20ligne_0.pdf
+https://www.college-de-france.fr/sites/default/files/media/document/2022-10/Jean-Pierre%20Serre-Articles%20en%20ligne_0.pdf
 
-% https://www.college-de-france.fr/sites/default/files/media/document/2022-06/Serre-Bibliographie.pdf
+https://www.college-de-france.fr/sites/default/files/media/document/2022-06/Serre-Bibliographie.pdf
 
+https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
 
+http://matematicas.unex.es/~navarro/res/biografia.pdf
 
-% https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
+http://matematicas.unex.es/~navarro/res/
+
+https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
  
  -->
  
@@ -66,6 +74,7 @@ https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTH
 - P. DELIGNE. *Interview for the Abel Prize*, Notices of AMS 61, 177 – 185
 - *Une entrevue avec Jean Giraud, à Propos d'Alexandre Grothendieck*, Le Journal de Maths 1, 63 – 65 (1994)
 - C. BOSCH y C.L GARCÍA. [*Alexandre Grothendieck: de la luz a la sombra*](https://miscelaneamatematica.org/download/tbl_articulos.pdf2.b9518e821ad100a4.363230342e706466.pdf). Miscelánea Matemática 62 (2016) 45-61 
+- G. DEPAMBOUR. [L'héritage d'Alexandre Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Depambour.pdf), published in Science et Vie, April 2018.
 - L. SCHWARTZ. *A Mathematicien Grappling with His Century*, Birkhäuser, 2001.
 - D. AUBIN. *A Cultural History of Catastrophes and Chaos: Around the Institut des Hautes Études Scientifiques*, France 1958-1980, Ph. D. thesis (Princeton University) 
 - D. RUELLE. *The Mathematician's Brain: A Personal Tour Through the Essentials of Mathematics and Some of the Great Minds Behind Them*. Princeton: Princeton University Press. 2007
@@ -78,12 +87,14 @@ https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTH
 
 ### Multimedia
 
+- Allons nous continuer la Recherche Scientifique, A. Grothendieck [audio](https://cds.cern.ch/record/912518/), [video](https://youtu.be/z5OvqQyLSZU)
 - An [interview of Johanna Grothendieck](https://radiogalaxie31.com/wp-content/uploads/Podcasts/2022/Invites/Culture/R03-22-Johanna-Gothendieck-BV.mp3) about ``Récoltes et Semailles'' to Radio Galaxie
 - Continent Sciences broadcast [Autour d'Alexandre Grothendieck](http://www.franceculture.fr/emission-autour-d-alexandre-grothendieck-2008-06-02.html) - with Denis Guedj, Michel Demazure and Laurent Lafforgue. 
 - La Marche des Sciences broadcast [Entre ombre et lumière](https://www.franceculture.fr/emission-la-marche-des-sciences-entre-ombre-et-lumiere-alexandre-grothendieck-ou-la-vie-du-plus-gran) - with P. Cartier, M. Demazure and L. Schneps.
 - Une vie, une oeuvre broadcast [Alexandre Grothendieck ou le silence du génie](https://www.franceculture.fr/emissions/une-vie-une-oeuvre/alexandre-grothendieck-ou-le-silence-du-genie) - with Jean Malgoire, Jean-Paul Malrieu, Leila Schneps, Pierre Lochak, Pierre Cartier, Christian Escriva et André Joyal.
 - La Méthode Scientifique broadcast [L'héritage d'Alexandre Grothendieck](https://www.franceculture.fr/emissions/la-methode-scientifique/lheritage-dalexandre-grothendieck) with Pierre Cartier, Claude Viterbo and Anne-Sandrine Paumier. 
 - [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
+- [Le génie Grothendieck raconté par Leïla Schneps](https://youtu.be/V8BbFTEyvIw), Directrice de recherche CNRS. Thé & Sciences
 
 
 
@@ -92,52 +103,49 @@ https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTH
 
 ### Mass media
 
-- \href{https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician}{The Mysterious Disappearance of a Revolutionary Mathematician}, The New Yorker
+- [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician), The New Yorker
 Alexander Grothendieck was revered for revealing connections between seemingly unrelated realms. Then he dropped out of society. By Rivka Galchen
-- \href{https://theanarchistlibrary.org/library/konstantinos-foutzopoulos-the-man-of-the-circular-ruins?v=1620246019}{The Man of the Circular Ruins}, Konstantinos Foutzopoulos
-- \href{https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html}{Can one explain schemes to biologists}. Alexander Grothendieck by David Mumford and John Tate
-- \href{https://images.math.cnrs.fr/Alexandre-Grothendieck?lang=fr}{Alexandre Grothendieck. Un voyage à la poursuite des choses évidentes}, P Douroux
-- \href{https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr}{Grothendieck et Montpellier}, J-P Kahane \item \href{https://reporterre.net/Pour-Grothendieck-l-urgence}{Entretien avec Christian Escriva}. Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
-- \href{https://www.atrio.org/category/grothendieck/}{Grothendieck} en Atrio
-- \href{http://www.ccnr.org/encounter.html}{My Encounter with Grothendieck}, G Edwards
-- \href{https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-heritage-mathematique-fertile-9237.php}{Grothendieck : un héritage mathématique fertile}, J Malgoire
-- \href{https://www.pourlascience.fr/sr/article/grothendieck-un-genie-des-maths-devenu-ermite-9242.php}{Grothendieck : un génie des maths devenu ermite}, W Scharlau
-- \href{https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-ecrivain-en-quete-de-verite-9239.php}{Grothendieck : un écrivain en quête de vérité}, L Schneps
-- \href{https://www.pourlascience.fr/sd/mathematiques/recoltes-et-semailles-une-oeuvre-inclassable-23392.php}{``Récoltes et Semailles'', une œuvre inclassable}, L Manguin
-- \href{http://www.neverendingbooks.org/tag/grothendieck}{Neverendingbooks}
-- \href{https://reporterre.net/Genie-des-mathematiques-et-ecologiste-radical-l-exemplaire-destinee-d-Alexandre}{Génie des mathématiques et écologiste radical : l'exemplaire destinée d'Alexandre Grothendieck}
-- \href{https://reporterre.net/Survivre-et-vivre-retour-sur-le-mouvement-qui-a-initie-l-ecologie-politique}{Survivre et vivre, retour sur le mouvement qui a initié l'écologie politique}
-- \href{https://www.privatdozent.co/p/the-anarchist-abstractionist-who-995?s=r}{The Anarchist Abstractionist — Who was Alexander Grothendieck?}
-- \href{https://www.liberation.fr/sciences/2017/05/05/les-notes-du-mathematicien-alexandre-grothendieck-arrivent-sur-le-net_1567517/}{Les notes du mathématicien Alexandre Grothendieck arrivent sur le Net}
-- \href{https://www.sciencesetavenir.fr/fondamental/mathematiques/grothendieck-mathematicien-de-genie-et-idealiste_127920}{Alexandre Grothendieck, plus qu'un mathématicien de génie, un idéaliste}, C Gaubert
-- \href{https://www.lemonde.fr/sciences/article/2019/05/06/archives-d-alexandre-grothendieck-quel-prix-entre-epsilon-et-l-infini_5459041_1650684.html}{Archives d'Alexandre Grothendieck : quel prix, entre epsilon et l'infini ?}, P Douroux
-- \href{https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/}{Grothendieck circle}
-- \href{https://www.lemonde.fr/sciences/article/2022/03/15/le-reglement-de-comptes-posthume-du-genie-mathematique-alexandre-grothendieck_6117548_1650684.html}{Le règlement de comptes posthume du génie mathématique Alexandre Grothendieck}, D Larousserie
-- \href{https://www.lemonde.fr/sciences/article/2022/03/15/alexandre-grothendieck-un-critique-radical-de-la-science_6117532_1650684.html}{Alexandre Grothendieck, un critique radical de la science}, D Larousserie
-- \href{https://www.lemonde.fr/sciences/article/2019/05/06/alexandre-grothendieck-une-mathematique-en-cathedrale-gothique_5459035_1650684.html}{Alexandre Grothendieck : une mathématique en cathédrale gothique}, P Douroux
-- \href{https://www.lemonde.fr/sciences/article/2019/05/06/les-archives-insaisissables-d-alexandre-grothendieck_5459049_1650684.html}{Trésor scientifique ou vieux papiers illisibles ? Les mystérieuses archives d'Alexandre Grothendieck}, P Douroux
-- \href{https://www.lemonde.fr/sciences/article/2015/06/17/des-milliers-de-manuscrits-du-genie-des-maths-alexandre-grothendieck-bientot-numerises_4656174_1650684.html}{Des manuscrits inédits du génie des maths Alexandre Grothendieck bientôt numérisés}, S Foucart
-- \href{https://www.lejdd.fr/Societe/alexandre-grothendieck-le-genie-des-maths-qui-accoucha-de-lecologie-3992788?Echobox=1600844733#utm_medium=Social&xtor=CS1-4&utm_source=Twitter}{Alexandre Grothendieck : le génie des maths qui accoucha de l'écologie}, A Nazaret
-- \href{https://culturacientifica.com/2018/03/28/alexandre-grothendieck-el-genio-rebelde/}{Alexandre Grothendieck, el genio rebelde}
-- \href{https://www.lemonde.fr/idees/article/2014/11/17/la-vraie-raison-pour-laquelle-le-mathematicien-alexandre-grothendieck-s-est-retire-du-monde_4524868_3232.html}{La vraie raison pour laquelle le mathématicien Alexandre Grothendieck s'est retiré du monde}
-- \href{https://www.lemonde.fr/disparitions/article/2014/11/14/le-mathematicien-alexandre-grothendieck-est-mort_4523482_3382.html}{Alexandre Grothendieck, le plus grand mathématicien du XXe siècle, est mort}, S Foucart et P Pajot
-- \href{https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mohammad.pdf}{Visiting Alexander Grothendieck}, Hedayatzadeh
-- \href{https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Katrina.pdf}{Katrina Honigs}
-- \href{https://www.nytimes.com/2014/11/16/world/europe/alexander-grothendieck-math-enigma-dies-at-86.html}{Grothendieck, math enigma dies at 86}
-- \href{https://www.washingtonpost.com/national/health-science/alexander-grothendieck-mathematical-genius-who-went-into-self-exile-dies-at-86/2014/11/15/1e65f69a-6cf2-11e4-9fb4-a622dae742a2_story.html}{Grothendieck. Mathematical genius who went into self-exile dies at 86}
-- \href{https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck}{Alexander Grothendieck obituary}, H Shoolman
-- \href{https://www.independent.co.uk/news/world/europe/greatest-mathematician-of-the-20th-century-and-the-most-important-scientific-mind-you-ve-never-heard-of-alexander-grothendieck-dies-aged-86-9862306.html}{Greatest mathematician of the 20th century and the most important scientific mind you've never heard of: Alexander Grothendieck dies aged 86}
-- \href{https://www.dropbox.com/s/9u7n6xkwytocogf/grothendieckangle.pdf?dl=0}{Grothendieck's angle}, G Aiello
-- \href{http://matematicas.unex.es/~navarro/res/}{Grothendieck}, por J A Navarro
-- A la recherche de Grothendieck, cerveau mathématicien, \href{https://www.mediapart.fr/journal/france/010115/la-recherche-de-grothendieck-cerveau-mathematicien-13}{partie 1}, \href{https://www.mediapart.fr/journal/culture-idees/030115/grothendieck-une-explosion-de-maths-qui-bouleverse-la-physique-23}{partie 2}, \href{https://www.mediapart.fr/journal/culture-idees/060115/grothendieck-les-mysteres-dune-vie-de-mathematicien-33}{partie 3}. M de Pracontal
-- \href{https://www.liberation.fr/sciences/2014/11/13/alexandre-grothendieck-ou-la-mort-d-un-genie-qui-voulait-se-faire-oublier_1142614/}{Alexandre Grothendieck, ou la mort d'un génie qui voulait se faire oublier}, P Douroux
-- \href{https://www.mediapart.fr/journal/culture-idees/141114/la-mort-dalexandre-grothendieck-geant-franco-apatride-des-mathematiques}{La mort d'Alexandre Grothendieck, géant franco-apatride des mathématiques}
-- \href{https://blogs.mediapart.fr/varlenge/blog/141114/alexander-grothendieck-mathematicien-rebelle-est-mort-aujourdhui-en-ariege}{Alexander Grothendieck, mathématicien rebelle ... est mort aujourd'hui en Ariège}
-- \href{https://www.mediapart.fr/journal/france/141114/portrait-dun-genie-des-mathematiques}{Portrait d'un génie des mathématiques}
-- \href{https://voilacestdit.blog4ever.com/grothendieck-2}{Alexander Grothendieck, le génie secret des mathématiques}, G Lebrun
-- \href{https://www.revistacienciasunam.com/pt/200-revistas/revista-ciencias-117/1944-alexander-grothendieck,-la-fascinante-vida-de-un-genio-matem\%C3\%A1tico.html}{A. Grothendieck, la fascinante vida de un genio matemático}, W Bietenholz
-- \href{https://www.fronterad.com/grothendieck-gottendieck-grothendieu-el-genio-sesentayochista-de-un-matematico/}{Grothendieck, Gottendieck, Grothendieu. El genio sesentayochista de un matemático}, X García Fronterad
+- [The Man of the Circular Ruins](https://theanarchistlibrary.org/library/konstantinos-foutzopoulos-the-man-of-the-circular-ruins?v=1620246019), Konstantinos Foutzopoulos
+- [Can one explain schemes to biologists](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html). Alexander Grothendieck by David Mumford and John Tate
+- [Alexandre Grothendieck. Un voyage à la poursuite des choses évidentes](https://images.math.cnrs.fr/Alexandre-Grothendieck?lang=fr), P Douroux
+- [Grothendieck et Montpellier](https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr), J-P Kahane \item \href{https://reporterre.net/Pour-Grothendieck-l-urgence}{Entretien avec Christian Escriva}. Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
+- [A. Grothendieck](https://www.atrio.org/category/grothendieck/) en Atrio
+- [My Encounter with Grothendieck](http://www.ccnr.org/encounter.html), G Edwards
+- [Grothendieck : un héritage mathématique fertile](https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-heritage-mathematique-fertile-9237.php), J Malgoire
+- [Grothendieck : un génie des maths devenu ermite](https://www.pourlascience.fr/sr/article/grothendieck-un-genie-des-maths-devenu-ermite-9242.php), W Scharlau
+- [Grothendieck : un écrivain en quête de vérité](https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-ecrivain-en-quete-de-verite-9239.php), L Schneps
+- ["Récoltes et Semailles", une œuvre inclassable](https://www.pourlascience.fr/sd/mathematiques/recoltes-et-semailles-une-oeuvre-inclassable-23392.php), L Manguin
+- [Neverendingbooks](http://www.neverendingbooks.org/tag/grothendieck)
+- [Génie des mathématiques et écologiste radical : l'exemplaire destinée d'Alexandre Grothendieck](https://reporterre.net/Genie-des-mathematiques-et-ecologiste-radical-l-exemplaire-destinee-d-Alexandre). Reporterre
+- [Survivre et vivre, retour sur le mouvement qui a initié l'écologie politique](https://reporterre.net/Survivre-et-vivre-retour-sur-le-mouvement-qui-a-initie-l-ecologie-politique)
+- [The Anarchist Abstractionist — Who was Alexander Grothendieck?](https://www.privatdozent.co/p/the-anarchist-abstractionist-who-995?s=r)
+- [Les notes du mathématicien Alexandre Grothendieck arrivent sur le Net](https://www.liberation.fr/sciences/2017/05/05/les-notes-du-mathematicien-alexandre-grothendieck-arrivent-sur-le-net_1567517/)
+- [Alexandre Grothendieck, plus qu'un mathématicien de génie, un idéaliste](https://www.sciencesetavenir.fr/fondamental/mathematiques/grothendieck-mathematicien-de-genie-et-idealiste_127920), C Gaubert
+- [Archives d'Alexandre Grothendieck : quel prix, entre epsilon et l'infini ?](https://www.lemonde.fr/sciences/article/2019/05/06/archives-d-alexandre-grothendieck-quel-prix-entre-epsilon-et-l-infini_5459041_1650684.html), P Douroux
+- [Grothendieck circle](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/)
+- [Le règlement de comptes posthume du génie mathématique Alexandre Grothendieck](https://www.lemonde.fr/sciences/article/2022/03/15/le-reglement-de-comptes-posthume-du-genie-mathematique-alexandre-grothendieck_6117548_1650684.html), D Larousserie
+- [Alexandre Grothendieck, un critique radical de la science](https://www.lemonde.fr/sciences/article/2022/03/15/alexandre-grothendieck-un-critique-radical-de-la-science_6117532_1650684.html), D Larousserie
+- [Alexandre Grothendieck : une mathématique en cathédrale gothique](https://www.lemonde.fr/sciences/article/2019/05/06/alexandre-grothendieck-une-mathematique-en-cathedrale-gothique_5459035_1650684.html), P Douroux
+- [Trésor scientifique ou vieux papiers illisibles ? Les mystérieuses archives d'Alexandre Grothendieck](https://www.lemonde.fr/sciences/article/2019/05/06/les-archives-insaisissables-d-alexandre-grothendieck_5459049_1650684.html), P Douroux
+- [Des manuscrits inédits du génie des maths Alexandre Grothendieck bientôt numérisés](https://www.lemonde.fr/sciences/article/2015/06/17/des-milliers-de-manuscrits-du-genie-des-maths-alexandre-grothendieck-bientot-numerises_4656174_1650684.html), S Foucart
+- [Alexandre Grothendieck : le génie des maths qui accoucha de l'écologie](https://www.lejdd.fr/Societe/alexandre-grothendieck-le-genie-des-maths-qui-accoucha-de-lecologie-3992788?Echobox=1600844733#utm_medium=Social&xtor=CS1-4&utm_source=Twitter), A Nazaret
+- [Alexandre Grothendieck, el genio rebelde](https://culturacientifica.com/2018/03/28/alexandre-grothendieck-el-genio-rebelde/)
+- [La vraie raison pour laquelle le mathématicien Alexandre Grothendieck s'est retiré du monde](https://www.lemonde.fr/idees/article/2014/11/17/la-vraie-raison-pour-laquelle-le-mathematicien-alexandre-grothendieck-s-est-retire-du-monde_4524868_3232.html)
+- [Alexandre Grothendieck, le plus grand mathématicien du XXe siècle, est mort](https://www.lemonde.fr/disparitions/article/2014/11/14/le-mathematicien-alexandre-grothendieck-est-mort_4523482_3382.html), S Foucart et P Pajot
+- [Visiting Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mohammad.pdf), Hedayatzadeh
+- [Katrina Honigs](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Katrina.pdf)
+- [Grothendieck, math enigma dies at 86](https://www.nytimes.com/2014/11/16/world/europe/alexander-grothendieck-math-enigma-dies-at-86.html)
+- [Grothendieck. Mathematical genius who went into self-exile dies at 86](https://www.washingtonpost.com/national/health-science/alexander-grothendieck-mathematical-genius-who-went-into-self-exile-dies-at-86/2014/11/15/1e65f69a-6cf2-11e4-9fb4-a622dae742a2_story.html)
+- [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), H Shoolman
+- [Greatest mathematician of the 20th century and the most important scientific mind you've never heard of: Alexander Grothendieck dies aged 86](https://www.independent.co.uk/news/world/europe/greatest-mathematician-of-the-20th-century-and-the-most-important-scientific-mind-you-ve-never-heard-of-alexander-grothendieck-dies-aged-86-9862306.html)
+- [Grothendieck's angle](https://www.dropbox.com/s/9u7n6xkwytocogf/grothendieckangle.pdf?dl=0), G Aiello
+- [Grothendieck](http://matematicas.unex.es/~navarro/res/), por J A Navarro
+- A la recherche de Grothendieck, cerveau mathématicien, [partie 1](https://www.mediapart.fr/journal/france/010115/la-recherche-de-grothendieck-cerveau-mathematicien-13), [partie 2](https://www.mediapart.fr/journal/culture-idees/030115/grothendieck-une-explosion-de-maths-qui-bouleverse-la-physique-23), [partie 3](https://www.mediapart.fr/journal/culture-idees/060115/grothendieck-les-mysteres-dune-vie-de-mathematicien-33). M de Pracontal
+- [Alexandre Grothendieck, ou la mort d'un génie qui voulait se faire oublier](https://www.liberation.fr/sciences/2014/11/13/alexandre-grothendieck-ou-la-mort-d-un-genie-qui-voulait-se-faire-oublier_1142614/), P Douroux
+- [La mort d'Alexandre Grothendieck, géant franco-apatride des mathématiques](https://www.mediapart.fr/journal/culture-idees/141114/la-mort-dalexandre-grothendieck-geant-franco-apatride-des-mathematiques)
+- [Alexander Grothendieck, mathématicien rebelle ... est mort aujourd'hui en Ariège](https://blogs.mediapart.fr/varlenge/blog/141114/alexander-grothendieck-mathematicien-rebelle-est-mort-aujourdhui-en-ariege)
+- [Portrait d'un génie des mathématiques](https://www.mediapart.fr/journal/france/141114/portrait-dun-genie-des-mathematiques)
+- [Alexander Grothendieck, le génie secret des mathématiques](https://voilacestdit.blog4ever.com/grothendieck-2), G Lebrun
+- [A. Grothendieck, la fascinante vida de un genio matemático](https://www.revistacienciasunam.com/pt/200-revistas/revista-ciencias-117/1944-alexander-grothendieck,-la-fascinante-vida-de-un-genio-matem\%C3\%A1tico.html), W Bietenholz
+- [Grothendieck, Gottendieck, Grothendieu. El genio sesentayochista de un matemático](https://www.fronterad.com/grothendieck-gottendieck-grothendieu-el-genio-sesentayochista-de-un-matematico/), X García Fronterad
 
----
-
-[Thèmes pour une Harmonie](https://agrothendieck.github.io/)
