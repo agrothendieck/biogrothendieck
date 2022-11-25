@@ -63,7 +63,7 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - P.J HORMIÈRE. [*Alexandre Grothendieck. Eléments de biographie*](https://lescoursdemathsdepjh.monsite-orange.fr/file/4c6a4357774ca8a90405161a7e6efd18.pdf). 
 - A. JACKSON. *Comme Appelé du Néant: As if Summoned from the Void: The Life of Alexandre Grothendieck*. [Part 1, October 2004](http://www.ams.org/notices/200409/fea-grothendieck-part1.pdf). [Part 2, November 2004](http://www.ams.org/notices/200410/fea-grothendieck-part2.pdf). Notices of the AMS
 - ---, [*Grothendieck at 80, IHES at 50*](http://www.ams.org/notices/200808/tx080800962p.pdf). September 2008. Notices of the AMS
-- ---, *Interview with Alain Connes*, Celebratio  Mathematica, February 2021
+- ---, [*Interview with Alain Connes*](https://celebratio.org/Connes_A/article/842/), Celebratio  Mathematica, February 2021
 - ---, [*Interview with Heisuke Hironaka*](http://www.ams.org/notices/200509/fea-hironaka.pdf). October 2005. Notices of the AMS
 - ---, [*Interview with Raoul Bott*](https://www.ams.org/publications/journals/all/fea-bott.pdf). April 2001. Notices of the AMS
 - L. B VIALE. [*Alexander Grothendieck. Enthusiasm and Creativity*](http://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathbiographies/barbierieng.pdf) in Mathematical Lives (Springer, 2011) translation [Alexander Grothendieck. Entusiasmo e creatività*](http://users.unimi.it/barbieri/grothendieck.pdf) article contained in the volume Vite matematiche (Springer, 2007) previously published as Grandi Matematici del Novecento (Vol. 50/51 Lettera Matematica Pristem, Springer) 
