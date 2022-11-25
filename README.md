@@ -78,6 +78,7 @@ https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/biographic.php
 - L. SCHWARTZ. *A Mathematicien Grappling with His Century*, Birkhäuser, 2001.
 - D. AUBIN. *A Cultural History of Catastrophes and Chaos: Around the Institut des Hautes Études Scientifiques*, France 1958-1980, Ph. D. thesis (Princeton University) 
 - D. RUELLE. *The Mathematician's Brain: A Personal Tour Through the Essentials of Mathematics and Some of the Great Minds Behind Them*. Princeton: Princeton University Press. 2007
+- J.A CRUZ. *[The notion of space in Grothendieck](https://arxiv.org/pdf/2105.08799.pdf): From schemes to a geometry of forms*. arXiv:2105.08799v1 [math.AG]
 
 
 
