@@ -26,10 +26,6 @@ https://www.college-de-france.fr/sites/default/files/media/document/2022-06/Serr
 
 https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
 
-http://matematicas.unex.es/~navarro/res/biografia.pdf
-
-http://matematicas.unex.es/~navarro/res/
-
  
  -->
  
@@ -45,14 +41,15 @@ http://matematicas.unex.es/~navarro/res/
     - ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
 - F. ZALAMEA. [*Grothendieck. Una guía a la obra matemática y filosofica*](http://matematicas.unex.es/~navarro/res/zalamea.pdf). Bogotá: Edtorial Nomos, 2019.
 - Alexandre Grothendieck 1928–2014, [Part 1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS1.pdf), [Part 2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS2.pdf). Obituary AMS
-- P. CARTIER. *A country of which nothing is known but the name: Grothendieck and "motives"*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
-    - ---, *A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry* (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
+- P. CARTIER. [*A country of which nothing is known but the name: Grothendieck and "motives"*](http://landsburg.com/grothendieck/cartier.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
+    - ---, [*A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry*](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
+    - --- *G for Grothendieck. The mathematical intelligence, the approach to the world, the behaviour of a genius who broke every rule*. Lettera Matematica volume 5, pages 113–118 (2017)
 - F. OORT. *Did earlier thoughts inspire Grothendieck?*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - R. HARTSHORNE. *An apprenticeship*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - V POÉNARU. [*Memories of Shourik*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/poenaru.pdf). Notices of the AMS, September 2008.
-- L. ILLUSIE. *Reminiscences of Grothendieck and His School* (with A. Beilinson, S. Bloch, V. Drinfeld et al.), Notices of the AMS, 57-9 (2010), 1106-1115.
+- L. ILLUSIE. [*Reminiscences of Grothendieck and His School*](http://landsburg.com/grothendieck/reminiscences.pdf) (with A. Beilinson, S. Bloch, V. Drinfeld et al.), Notices of the AMS, 57-9 (2010), 1106-1115.
 - M BÉLANGER. *La vision unificatrice de Grothendieck : au-delà de l'unité (méthodologique ?) des mathématiques de Lautman*. Philosophiques 37 (1):169-187 (2010).
-- C. MCLARTY. *The rising sea: Grothendieck on simplicity and generality I*, in Jeremy Gray and Karen Parshall, editors, Episodes in the History of Recent Algebra, American Mathematical Society, 2007, pp. 301–26
+- C. MCLARTY. [*The rising sea: Grothendieck on simplicity and generality I*](http://landsburg.com/grothendieck/mclarty1.pdf), in Jeremy Gray and Karen Parshall, editors, Episodes in the History of Recent Algebra, American Mathematical Society, 2007, pp. 301–26
 - P.J HORMIÈRE. [*Alexandre Grothendieck. Eléments de biographie*](https://lescoursdemathsdepjh.monsite-orange.fr/file/4c6a4357774ca8a90405161a7e6efd18.pdf). 
 - A. JACKSON. *Comme Appelé du Néant: As if Summoned from the Void: The Life of Alexandre Grothendieck*. [Part 1, October 2004](http://www.ams.org/notices/200409/fea-grothendieck-part1.pdf). [Part 2, November 2004](http://www.ams.org/notices/200410/fea-grothendieck-part2.pdf). Notices of the AMS
      - ---, [*Grothendieck at 80, IHES at 50*](http://www.ams.org/notices/200808/tx080800962p.pdf). September 2008. Notices of the AMS
@@ -79,6 +76,20 @@ http://matematicas.unex.es/~navarro/res/
 - A. CONNES et PG LAFAYE. [*À l’ombre de Grothendieck et de Lacan*](https://www.odilejacob.fr/catalogue/psychologie/psychanalyse/a-lombre-de-grothendieck-et-de-lacan_9782415002381.php). Un topos sur l'inconscient. Odile Jacob
 - N. S. NARASIMHAN. [*Alexander the Great. The Mathematical Genius Grothendieck*](https://www.ias.ac.in/article/fulltext/reso/020/06/0483-0490)
 - D. COUTY. [*Regards amis sur Claude Chevalley*](https://arxiv.org/pdf/2201.13054.pdf)
+- W BIETENHOLZ and T PEIXOTO. [*To the Memory of Alexander Grothendieck: a Great and Mysterious Genius of Mathematics*](https://arxiv.org/abs/1605.08112)
+- W LAWVERE. [*Alexander Grothendieck and the Concept of Space*](https://raw.githubusercontent.com/mattearnshaw/lawvere/master/pdfs/2015-alexander-grothendieck-and-the-concept-of-space.pdf). Invited address at CT 2015 Aveiro, Portugal
+- E H LAAMRI. [*Alexander Grothendieck: période 1928-1956*](https://hal.archives-ouvertes.fr/hal-01314594/document). Bulletin d’information de l’Académie
+Hassan II des sciences et techniques, Académie Hassan II des sciences et techniques, 2015, 18, pp.67-79.
+- R BROWN. [*Alexander Grothendieck: some recollections*](http://groupoids.org.uk/pdffiles/AG-recollections.pdf)
+- C L CHAI and F OORT. [*Life and work of A. Grothendieck*](https://www2.math.upenn.edu/~chai/papers_pdf/ChaiFO-AG-final_v1.pdf). ICCM Notices 5 (2017), 22-50.
+- J. A NAVARRO. [*Apuntes Biográficos sobre A. Grothendieck*](http://matematicas.unex.es/~navarro/res/biografia.pdf) and a [*Letter*](http://matematicas.unex.es/~navarro/res/notices.pdf) to the Editor of the Notices of the AMS
+- R LISKER. [*Visiting Alexandre Grothendieck*](http://matematicas.unex.es/~navarro/res/liskerquest.pdf)
+- Le [«Club des Cervaux»](http://matematicas.unex.es/~navarro/res/1964realites.pdf) de Bures-sur-Yvette; Réalités, Avril 1964
+- HANKA GROTHENDIECK. [*Eine Frau*](http://matematicas.unex.es/~navarro/res/einefrau.pdf)
+
+
+
+
 
 
 ### Mathematics
@@ -96,6 +107,12 @@ http://matematicas.unex.es/~navarro/res/
 - J.A CRUZ. *[The notion of space in Grothendieck](https://arxiv.org/pdf/2105.08799.pdf): From schemes to a geometry of forms*. arXiv:2105.08799v1 [math.AG]
 - L A TARRÍO y A JEREMÍAS. [*La obra de Alexander Grothendieck*](https://gaceta.rsme.es/abrir.php?id=183). La Gaceta de la RSME 4 (2001), no. 3, 623–638.
 - E GIRONDO, G GONZÁLES-DIEZ y D.T TEIGELL. [*La teoría de Belyi-Grothendieck de dessins d’enfants*](https://gaceta.rsme.es/abrir.php?id=1672) La Gaceta de la RSME, Vol. 25 (2022), Núm. 1, Págs. 55–83 
+- CH LIU and ST YAU. [*D-branes and Azumaya noncommutative geometry: From Polchinski to Grothendieck*](https://arxiv.org/abs/1003.1178)
+- E.J. DUBUC, C. SANCHEZ DE LA VEGA. [*On the Galois Theory of Grothendieck*](https://arxiv.org/abs/math/0009145)
+- R BROWN. [*The origins of Alexander Grothendieck's "Pursuing Stacks"*](https://groupoids.org.uk/pstacks.html)
+- L ILLUSIE. [*Alexandre Grothendieck, magicien des foncteurs*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Magicien.pdf)
+
+
 
 
 
@@ -125,6 +142,7 @@ http://matematicas.unex.es/~navarro/res/
 
 - [Can one explain schemes to biologists](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html). D Mumford and J Tate. Blog
 - [Alexander Grothendieck](https://mathshistory.st-andrews.ac.uk/Obituaries/Grothendieck_Telegraph/), Telegraph obituary
+- [The Fields Medal should return to its roots](https://media.nature.com/original/magazine-assets/d41586-018-00513-8/d41586-018-00513-8.pdf). Nature
 - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician), The New Yorker
 - [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), The Guardian
 Alexander Grothendieck was revered for revealing connections between seemingly unrelated realms. Then he dropped out of society. By Rivka Galchen
