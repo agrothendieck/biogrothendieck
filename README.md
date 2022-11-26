@@ -151,6 +151,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), The Guardian
 Alexander Grothendieck was revered for revealing connections between seemingly unrelated realms. Then he dropped out of society. By Rivka Galchen
 - [The Man of the Circular Ruins](https://theanarchistlibrary.org/library/konstantinos-foutzopoulos-the-man-of-the-circular-ruins?v=1620246019), Konstantinos Foutzopoulos
+- [La cocina de la bruja. Alexander Grothendieck, un personaje fuera de serie](http://scm.org.co/archivos/revista/Articulos/1090.pdf). Lecturas Matemáticas Volumen 33 (2) (2012), páginas 157–159
 - [Alexandre Grothendieck. Un voyage à la poursuite des choses évidentes](https://images.math.cnrs.fr/Alexandre-Grothendieck?lang=fr), P Douroux
 - [Grothendieck et Montpellier](https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr), J-P Kahane 
 - [Entretien avec Christian Escriva](https://reporterre.net/Pour-Grothendieck-l-urgence). Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
