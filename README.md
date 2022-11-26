@@ -78,7 +78,7 @@ http://matematicas.unex.es/~navarro/res/
 - L. NARVAEZ. [*En recuerdo de Alexander Grothendieck: Prólogo para una lectura de su vida y obra*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Narvaez.pdf). La Gaceta de la RSME, Vol. 20 (2017), Núm. 2, Págs. 297–324
 - A. CONNES et PG LAFAYE. [*À l’ombre de Grothendieck et de Lacan*](https://www.odilejacob.fr/catalogue/psychologie/psychanalyse/a-lombre-de-grothendieck-et-de-lacan_9782415002381.php). Un topos sur l'inconscient. Odile Jacob
 - N. S. NARASIMHAN. [*Alexander the Great. The Mathematical Genius Grothendieck*](https://www.ias.ac.in/article/fulltext/reso/020/06/0483-0490)
-
+- D. COUTY. [*Regards amis sur Claude Chevalley*](https://arxiv.org/pdf/2201.13054.pdf)
 
 
 ### Mathematics
@@ -112,6 +112,11 @@ http://matematicas.unex.es/~navarro/res/
 - [Le génie Grothendieck raconté par Leïla Schneps](https://youtu.be/V8BbFTEyvIw), Directrice de recherche CNRS. Thé & Sciences
 - Mini Curso: [Grothendieck, una guía a la obra matemática](https://youtube.com/playlist?list=PLiD-IJzweXR9ndmvpYnoqBJwAQFE778zv) (Fernando Zalamea)
 - [Lectures grothendieckiennes](https://youtube.com/playlist?list=PLDW2ZNtGxGvdYObK8UDN-1YtYa0xFgLyc)
+- [Alexandre Grothendieck, créateur réfugié en lui-même](https://youtu.be/rO6Be3PbPi0), Alain Connes. [Translation](http://denisevellachemla.eu/transc-AC-AG-refugie-en-lui-meme-en.pdf)
+- [Bourbaki, les années 1945-75](https://youtu.be/QqR459KxDVU), Jean-Pierre Serre, Pierre Cartier, Jacques Dixmier & Alain Connes. [Translation](http://denisevellachemla.eu/Bourbaki-en.pdf)
+- [Jean-Pierre Serre & Alain Connes - Correspondance Serre-Grothendieck](https://youtu.be/pOv-ygSynRI). [Translation](http://denisevellachemla.eu/JPS-AC-en.pdf)
+- Alain Connes : [« Un topo sur les topos »](https://youtu.be/qcSOav9Opko) — Lectures grothendieckiennes. [Translation](http://denisevellachemla.eu/transc-AC-topo2-en.pdf)
+
 
 
 
