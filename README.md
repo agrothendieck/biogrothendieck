@@ -181,7 +181,7 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [La vraie raison pour laquelle le mathématicien Alexandre Grothendieck s'est retiré du monde](https://www.lemonde.fr/idees/article/2014/11/17/la-vraie-raison-pour-laquelle-le-mathematicien-alexandre-grothendieck-s-est-retire-du-monde_4524868_3232.html)
 - [Alexandre Grothendieck, le plus grand mathématicien du XXe siècle, est mort](https://www.lemonde.fr/disparitions/article/2014/11/14/le-mathematicien-alexandre-grothendieck-est-mort_4523482_3382.html), S Foucart et P Pajot
 - [Visiting Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mohammad.pdf), Hedayatzadeh
-- [Katrina Honigs](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Katrina.pdf)
+- Visiting Grothendieck [Katrina Honigs](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Katrina.pdf)
 - [Grothendieck, math enigma dies at 86](https://www.nytimes.com/2014/11/16/world/europe/alexander-grothendieck-math-enigma-dies-at-86.html)
 - [Grothendieck. Mathematical genius who went into self-exile dies at 86](https://www.washingtonpost.com/national/health-science/alexander-grothendieck-mathematical-genius-who-went-into-self-exile-dies-at-86/2014/11/15/1e65f69a-6cf2-11e4-9fb4-a622dae742a2_story.html)
 - [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), H Shoolman
