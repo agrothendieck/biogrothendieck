@@ -140,7 +140,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 
 - [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
 - [La Colline aux mille enfants](https://youtu.be/lBJjXJAhjss) par Jean-Louis Lorenzi avec Ottavia Piccolo, 1997
-- [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg), [Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8) par Catherine Aïra, Yves Le Pestipon
+- [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg) ([Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8)) par Catherine Aïra, Yves Le Pestipon
 
 ### Mass media
 
