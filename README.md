@@ -77,6 +77,7 @@ http://matematicas.unex.es/~navarro/res/
 - Y. LADEGAILLERIE. [*Alexandre Grothendieck après 1970*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Ladegaillerie.pdf). 
 - L. NARVAEZ. [*En recuerdo de Alexander Grothendieck: Prólogo para una lectura de su vida y obra*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Narvaez.pdf). La Gaceta de la RSME, Vol. 20 (2017), Núm. 2, Págs. 297–324
 - A. CONNES et PG LAFAYE. [*À l’ombre de Grothendieck et de Lacan*](https://www.odilejacob.fr/catalogue/psychologie/psychanalyse/a-lombre-de-grothendieck-et-de-lacan_9782415002381.php). Un topos sur l'inconscient. Odile Jacob
+- N. S. NARASIMHAN. [*Alexander the Great. The Mathematical Genius Grothendieck*](https://www.ias.ac.in/article/fulltext/reso/020/06/0483-0490)
 
 
 
