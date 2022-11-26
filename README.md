@@ -12,22 +12,6 @@
 - [Thèmes pour une Harmonie](https://agrothendieck.github.io/)
 - [Archives Grothendieck](https://grothendieck.umontpellier.fr/)
 
-
-<!-- 
-
-To be included
-
-https://sites.unimi.it/barbieri/SG.html
-https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTHENDIECK.pdf 
-
-https://www.college-de-france.fr/sites/default/files/media/document/2022-10/Jean-Pierre%20Serre-Articles%20en%20ligne_0.pdf
-
-https://www.college-de-france.fr/sites/default/files/media/document/2022-06/Serre-Bibliographie.pdf
-
-https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
-
- 
- -->
  
  
  
@@ -40,6 +24,7 @@ https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
     - ---, [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
     - ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
     - ---, *Alexander Grothendieck (1928 – 2014)*. The Life of an Outsider
+    - ---, [*Lebenslauf A. Grothendieck*](http://www.scharlau-online.de/DOKS/cv_groth.pdf), W Scharlau
 - F. ZALAMEA. [*Grothendieck. Una guía a la obra matemática y filosofica*](http://matematicas.unex.es/~navarro/res/zalamea.pdf). Bogotá: Edtorial Nomos, 2019.
     - ---, [*Grothendieck: A Short Guide to His Mathematical and Philosophical Work (1949–1991)*](https://link.springer.com/referenceworkentry/10.1007/978-3-030-19071-2_27-1). In: Sriraman, B. (eds) Handbook of the History and Philosophy of Mathematical Practice. Springer, Cham.
     - ---, *Grothendieck. Visiones sobre la multiplicidad de su obra*, Bogotá: Universidad Nacional de Colombia - Editorial Nomos, 2017. 244 pp. ISBN 978-958-48-1157-8.
@@ -91,6 +76,10 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - Le [«Club des Cervaux»](http://matematicas.unex.es/~navarro/res/1964realites.pdf) de Bures-sur-Yvette; Réalités, Avril 1964
 - HANKA GROTHENDIECK. [*Eine Frau*](http://matematicas.unex.es/~navarro/res/einefrau.pdf)
 - A HEATHCOTE. [*Grothendieck's dream of the rising sea*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/heathcote.pdf)
+- Remembering Grothendieck, [*Interview with J. Murre*](http://www.nieuwarchief.nl/serie5/pdf/naw5-2016-17-1-058.pdf). NAW 5/17 nr. 1 maart 2016 
+- P RIBENBOIM. [*Excerpt from The Grothendieck I Knew: Telling, Not Hiding, Not Judging*](https://www.ams.org/journals/notices/201907/rnoti-p1069.pdf). August 2019 Notices of the AMS
+- AIELLO. [*Popular articles*](https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTHENDIECK.pdf) about A. Grothendieck
+- [Séminaire Grothendieck](https://sites.unimi.it/barbieri/SG.html) by L B viale
 
 
 
@@ -115,9 +104,10 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - R BROWN. [*The origins of Alexander Grothendieck's "Pursuing Stacks"*](https://groupoids.org.uk/pstacks.html)
 - L ILLUSIE. [*Alexandre Grothendieck, magicien des foncteurs*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Magicien.pdf)
 - J J Szczeciniarz. [*Prolégomènes à une étude philosophique de l’œuvre de Alexandre Grothendieck. Colloque en hommage à Grothendieck*](http://www.sphere.univ-paris-diderot.fr/IMG/pdf/JJSzczceziniarz_Grothendieck_Montreal.pdf)
-
-
-
+- C MCLARTY. *Grothendieck’s Unifying Vision of Geometry*. In: Kouneiher, J. (eds) Foundations of Mathematics and Physics One Century After Hilbert. Springer, Cham. 
+    - ---, *How Grothendieck simplified algebraic geometry*. Not. Am. Math. Soc. 63(3), 256–65 (2016)
+    - ---, [*Unity represents the profound aspect*](https://artscimedia.case.edu/wp-content/uploads/2013/07/14182609/Unity-represents-the-profound-aspect.pdf). talk at Warwick
+- PARANJAPE. [*Grothendieck and the Concept of Space*](https://www.ias.ac.in/article/fulltext/reso/020/06/0500-0505). Resonance, June 2015
 
 
 ### Multimedia
@@ -141,6 +131,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
 - [La Colline aux mille enfants](https://youtu.be/lBJjXJAhjss) par Jean-Louis Lorenzi avec Ottavia Piccolo, 1997. Movie about Le Chambon sur Lignon
 - [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg) ([Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8)) par Catherine Aïra, Yves Le Pestipon
+- [Rêves et Motifs](https://vimeo.com/235761098) par la Compagnie Les Rémouleurs.
 
 ### Mass media
 
