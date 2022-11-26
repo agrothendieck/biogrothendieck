@@ -128,7 +128,6 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - La Marche des Sciences broadcast [Entre ombre et lumière](https://www.franceculture.fr/emission-la-marche-des-sciences-entre-ombre-et-lumiere-alexandre-grothendieck-ou-la-vie-du-plus-gran) - with P. Cartier, M. Demazure and L. Schneps.
 - Une vie, une oeuvre broadcast [Alexandre Grothendieck ou le silence du génie](https://www.franceculture.fr/emissions/une-vie-une-oeuvre/alexandre-grothendieck-ou-le-silence-du-genie) - with Jean Malgoire, Jean-Paul Malrieu, Leila Schneps, Pierre Lochak, Pierre Cartier, Christian Escriva et André Joyal.
 - La Méthode Scientifique broadcast [L'héritage d'Alexandre Grothendieck](https://www.franceculture.fr/emissions/la-methode-scientifique/lheritage-dalexandre-grothendieck) with Pierre Cartier, Claude Viterbo and Anne-Sandrine Paumier. 
-- [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
 - [Le génie Grothendieck raconté par Leïla Schneps](https://youtu.be/V8BbFTEyvIw), Directrice de recherche CNRS. Thé & Sciences
 - Mini Curso: [Grothendieck, una guía a la obra matemática](https://youtube.com/playlist?list=PLiD-IJzweXR9ndmvpYnoqBJwAQFE778zv) (Fernando Zalamea)
 - [Lectures grothendieckiennes](https://youtube.com/playlist?list=PLDW2ZNtGxGvdYObK8UDN-1YtYa0xFgLyc)
@@ -137,9 +136,11 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [Jean-Pierre Serre & Alain Connes - Correspondance Serre-Grothendieck](https://youtu.be/pOv-ygSynRI). [Translation](http://denisevellachemla.eu/JPS-AC-en.pdf)
 - Alain Connes : [« Un topo sur les topos »](https://youtu.be/qcSOav9Opko) — Lectures grothendieckiennes. [Translation](http://denisevellachemla.eu/transc-AC-topo2-en.pdf)
 
+##### Movies
 
-
-
+- [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
+- [La Colline aux mille enfants](https://youtu.be/lBJjXJAhjss) par Jean-Louis Lorenzi avec Ottavia Piccolo, 1997
+- [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg), [Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8) par Catherine Aïra, Yves Le Pestipon
 
 ### Mass media
 
