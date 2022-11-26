@@ -32,7 +32,7 @@
 - P. CARTIER. [*A country of which nothing is known but the name: Grothendieck and "motives"*](http://landsburg.com/grothendieck/cartier.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
     - ---, [*A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry*](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
     - --- *G for Grothendieck. The mathematical intelligence, the approach to the world, the behaviour of a genius who broke every rule*. Lettera Matematica volume 5, pages 113–118 (2017)
-- F. OORT. *Did earlier thoughts inspire Grothendieck?*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
+- F. OORT. [*Did earlier thoughts inspire Grothendieck?*](https://webspace.science.uu.nl/~oort0109/AGRoots-final.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - R. HARTSHORNE. *An apprenticeship*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - V POÉNARU. [*Memories of Shourik*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/poenaru.pdf). Notices of the AMS, September 2008.
 - L. ILLUSIE. [*Reminiscences of Grothendieck and His School*](http://landsburg.com/grothendieck/reminiscences.pdf) (with A. Beilinson, S. Bloch, V. Drinfeld et al.), Notices of the AMS, 57-9 (2010), 1106-1115.
