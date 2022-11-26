@@ -39,7 +39,10 @@ https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
 - W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? [Anarchy](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/Anarchy.pdf), [Mathematics](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics.html), [Spirituality](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality.html), Solitude)
     - ---, [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
     - ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
+    - ---, *Alexander Grothendieck (1928 – 2014)*. The Life of an Outsider
 - F. ZALAMEA. [*Grothendieck. Una guía a la obra matemática y filosofica*](http://matematicas.unex.es/~navarro/res/zalamea.pdf). Bogotá: Edtorial Nomos, 2019.
+    - ---, [*Grothendieck: A Short Guide to His Mathematical and Philosophical Work (1949–1991)*](https://link.springer.com/referenceworkentry/10.1007/978-3-030-19071-2_27-1). In: Sriraman, B. (eds) Handbook of the History and Philosophy of Mathematical Practice. Springer, Cham.
+    - ---, *Grothendieck. Visiones sobre la multiplicidad de su obra*, Bogotá: Universidad Nacional de Colombia - Editorial Nomos, 2017. 244 pp. ISBN 978-958-48-1157-8.
 - Alexandre Grothendieck 1928–2014, [Part 1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS1.pdf), [Part 2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS2.pdf). Obituary AMS
 - P. CARTIER. [*A country of which nothing is known but the name: Grothendieck and "motives"*](http://landsburg.com/grothendieck/cartier.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
     - ---, [*A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry*](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
@@ -53,6 +56,7 @@ https://www.mediapart.fr/journal/ebook/les-mysteres-de-grothendieck
 - P.J HORMIÈRE. [*Alexandre Grothendieck. Eléments de biographie*](https://lescoursdemathsdepjh.monsite-orange.fr/file/4c6a4357774ca8a90405161a7e6efd18.pdf). 
 - A. JACKSON. *Comme Appelé du Néant: As if Summoned from the Void: The Life of Alexandre Grothendieck*. [Part 1, October 2004](http://www.ams.org/notices/200409/fea-grothendieck-part1.pdf). [Part 2, November 2004](http://www.ams.org/notices/200410/fea-grothendieck-part2.pdf). Notices of the AMS
      - ---, [*Grothendieck at 80, IHES at 50*](http://www.ams.org/notices/200808/tx080800962p.pdf). September 2008. Notices of the AMS
+     - ---, [*The IHES at Forty*](http://www.ams.org/notices/199903/ihes-changes.pdf). March 1999 Notices ofthe AMS
      - ---, [*Interview with Alain Connes*](https://celebratio.org/Connes_A/article/842/), Celebratio  Mathematica, February 2021
      - ---, [*Interview with Heisuke Hironaka*](http://www.ams.org/notices/200509/fea-hironaka.pdf). October 2005. Notices of the AMS
      - ---, [*Interview with Raoul Bott*](https://www.ams.org/publications/journals/all/fea-bott.pdf). April 2001. Notices of the AMS
@@ -86,8 +90,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - R LISKER. [*Visiting Alexandre Grothendieck*](http://matematicas.unex.es/~navarro/res/liskerquest.pdf)
 - Le [«Club des Cervaux»](http://matematicas.unex.es/~navarro/res/1964realites.pdf) de Bures-sur-Yvette; Réalités, Avril 1964
 - HANKA GROTHENDIECK. [*Eine Frau*](http://matematicas.unex.es/~navarro/res/einefrau.pdf)
-
-
+- A HEATHCOTE. [*Grothendieck's dream of the rising sea*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/heathcote.pdf)
 
 
 
@@ -111,7 +114,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - E.J. DUBUC, C. SANCHEZ DE LA VEGA. [*On the Galois Theory of Grothendieck*](https://arxiv.org/abs/math/0009145)
 - R BROWN. [*The origins of Alexander Grothendieck's "Pursuing Stacks"*](https://groupoids.org.uk/pstacks.html)
 - L ILLUSIE. [*Alexandre Grothendieck, magicien des foncteurs*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Magicien.pdf)
-
+- J J Szczeciniarz. [*Prolégomènes à une étude philosophique de l’œuvre de Alexandre Grothendieck. Colloque en hommage à Grothendieck*](http://www.sphere.univ-paris-diderot.fr/IMG/pdf/JJSzczceziniarz_Grothendieck_Montreal.pdf)
 
 
 
@@ -141,13 +144,13 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 ### Mass media
 
 - [Can one explain schemes to biologists](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html). D Mumford and J Tate. Blog
+     - ---, [*Alexander Grothendieck (1928–2014)*](https://www.nature.com/articles/517272a). Nature
 - [Alexander Grothendieck](https://mathshistory.st-andrews.ac.uk/Obituaries/Grothendieck_Telegraph/), Telegraph obituary
 - [The Fields Medal should return to its roots](https://media.nature.com/original/magazine-assets/d41586-018-00513-8/d41586-018-00513-8.pdf). Nature
 - [The Mysterious Disappearance of a Revolutionary Mathematician](https://www.newyorker.com/magazine/2022/05/16/the-mysterious-disappearance-of-a-revolutionary-mathematician), The New Yorker
 - [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), The Guardian
 Alexander Grothendieck was revered for revealing connections between seemingly unrelated realms. Then he dropped out of society. By Rivka Galchen
 - [The Man of the Circular Ruins](https://theanarchistlibrary.org/library/konstantinos-foutzopoulos-the-man-of-the-circular-ruins?v=1620246019), Konstantinos Foutzopoulos
-- [Can one explain schemes to biologists](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html). Alexander Grothendieck by David Mumford and John Tate
 - [Alexandre Grothendieck. Un voyage à la poursuite des choses évidentes](https://images.math.cnrs.fr/Alexandre-Grothendieck?lang=fr), P Douroux
 - [Grothendieck et Montpellier](https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr), J-P Kahane 
 - [Entretien avec Christian Escriva](https://reporterre.net/Pour-Grothendieck-l-urgence). Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
