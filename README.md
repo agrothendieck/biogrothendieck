@@ -104,6 +104,9 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
     - ---, *How Grothendieck simplified algebraic geometry*. Not. Am. Math. Soc. 63(3), 256–65 (2016)
     - ---, [*Unity represents the profound aspect*](https://artscimedia.case.edu/wp-content/uploads/2013/07/14182609/Unity-represents-the-profound-aspect.pdf). talk at Warwick
 - PARANJAPE. [*Grothendieck and the Concept of Space*](https://www.ias.ac.in/article/fulltext/reso/020/06/0500-0505). Resonance, June 2015
+- M RAUSSEN and C SKAU. [*Interview with Jean-Pierre Serre*](https://www.ams.org/notices/200402/comm-serre.pdf). Notices of the AMS, Vol 51, No 2
+- M. KIRSCH. *Jean-Pierre Serre. Mon premier demi-siècle au Collège de France*. In: Holden, H., Piene, R. (eds) The Abel Prize. The Abel Prize. Springer, Berlin, Heidelberg. ([Translation](http://denise.vella.chemla.free.fr/avril6.pdf))
+- C.T. CHONG and Y.K LEONG. [*An interview with J. P. Serre*](https://sms.math.nus.edu.sg/smsmedley/Vol-13-1/An%20interview%20with%20Jean-Pierre%20Serre(CT%20Chong%20&%20YK%20Leong).pdf)
 
 
 ### Multimedia
