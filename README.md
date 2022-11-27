@@ -85,8 +85,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [My Encounter with Grothendieck](http://www.ccnr.org/encounter.html), G Edwards
 - *The Grothendieck Festschrift*. In honor of the 60th birthday (1988) of Alexander Grothendieck, published by Birkhäuser in series Progress in Mathematics in 1990 as volumes 86, 87, 88.
 - *Alexandre Grothendieck: A Mathematical Portrait*. Edited by Leila Schneps.
-- J. DIEUDONNÉ. 
-     - ---, [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
+- J. DIEUDONNÉ. [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
 - J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
 - L. LAFFORGUE, [*Geometry according to Grothendieck : glimpses from Récoltes et Semailles*](https://www.laurentlafforgue.org/Cours_Lafforgue_Como_septembre_2021.pdf). Ce sont les transparents d'un cours donné en septembre 2021 à Como, à la Villa Del Grumello, dans le cadre d'une école d'été organisée avec Olivia Caramello et Ivan Fesenko sous le titre ``Unifying themes in geometry''.
 - J. TATE. Boekbespreking [*Correspondance Grothendieck-Serre*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/TateReview.pdf). NAW 5/5 nr. 1 maart 2004 
