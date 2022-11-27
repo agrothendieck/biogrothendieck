@@ -18,7 +18,7 @@
  
 --- 
 
-### Biographic
+### Articles and Books
 
 - W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? [Anarchy](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/Anarchy.pdf), [Mathematics](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics.html), [Spirituality](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality.html), Solitude)
     - ---, [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
@@ -80,15 +80,12 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - P RIBENBOIM. [*Excerpt from The Grothendieck I Knew: Telling, Not Hiding, Not Judging*](https://www.ams.org/journals/notices/201907/rnoti-p1069.pdf). August 2019 Notices of the AMS
 - AIELLO. [*Popular articles*](https://www.wstein.org/sga/aiello/LIST%20OF%20POPULAR%20ARTICLES%20ABOUT%20GROTHENDIECK.pdf) about A. Grothendieck
 - [Séminaire Grothendieck](https://sites.unimi.it/barbieri/SG.html) by L B viale
-
-
-
-
-### Mathematics
-
+- [Visiting Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mohammad.pdf), Hedayatzadeh
+- Visiting Grothendieck [Katrina Honigs](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Katrina.pdf)
+- [My Encounter with Grothendieck](http://www.ccnr.org/encounter.html), G Edwards
 - *The Grothendieck Festschrift*. In honor of the 60th birthday (1988) of Alexander Grothendieck, published by Birkhäuser in series Progress in Mathematics in 1990 as volumes 86, 87, 88.
 - *Alexandre Grothendieck: A Mathematical Portrait*. Edited by Leila Schneps.
-- J. DIEUDONNÉ. [*A. Grothendieck's Early Work (1950-1960)*](https://agrothendieck.github.io/divers/GrothDieud89scan.pdf). (1989). K-Theory, vol. 3, p. 299–306.
+- J. DIEUDONNÉ. 
      - ---, [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
 - J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
 - L. LAFFORGUE, [*Geometry according to Grothendieck : glimpses from Récoltes et Semailles*](https://www.laurentlafforgue.org/Cours_Lafforgue_Como_septembre_2021.pdf). Ce sont les transparents d'un cours donné en septembre 2021 à Como, à la Villa Del Grumello, dans le cadre d'une école d'été organisée avec Olivia Caramello et Ivan Fesenko sous le titre ``Unifying themes in geometry''.
@@ -125,13 +122,12 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [Bourbaki, les années 1945-75](https://youtu.be/QqR459KxDVU), Jean-Pierre Serre, Pierre Cartier, Jacques Dixmier & Alain Connes. [Translation](http://denisevellachemla.eu/Bourbaki-en.pdf)
 - [Jean-Pierre Serre & Alain Connes - Correspondance Serre-Grothendieck](https://youtu.be/pOv-ygSynRI). [Translation](http://denisevellachemla.eu/JPS-AC-en.pdf)
 - Alain Connes : [« Un topo sur les topos »](https://youtu.be/qcSOav9Opko) — Lectures grothendieckiennes. [Translation](http://denisevellachemla.eu/transc-AC-topo2-en.pdf)
-
-##### Movies
-
 - [L'espace d'un homme](http://herve.nisic.free.fr/espace-un-homme/espace-un-homme.html). Le projet Grothendieck de Hervé Nisic. [Entretien](http://concubit.free.fr/or_vert/ov2013/projet-grothendieck.html)
 - [La Colline aux mille enfants](https://youtu.be/lBJjXJAhjss) par Jean-Louis Lorenzi avec Ottavia Piccolo, 1997. Movie about Le Chambon sur Lignon
 - [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg) ([Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8)) par Catherine Aïra, Yves Le Pestipon
 - [Rêves et Motifs](https://vimeo.com/235761098) par la Compagnie Les Rémouleurs.
+
+
 
 ### Mass media
 
@@ -148,7 +144,6 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [Grothendieck et Montpellier](https://images.math.cnrs.fr/+Grothendieck-et-Montpellier+?lang=fr), J-P Kahane 
 - [Entretien avec Christian Escriva](https://reporterre.net/Pour-Grothendieck-l-urgence). Pour Grothendieck, l'urgence écologique était devenue plus importante que les maths
 - [A. Grothendieck](https://www.atrio.org/category/grothendieck/) en Atrio
-- [My Encounter with Grothendieck](http://www.ccnr.org/encounter.html), G Edwards
 - [Grothendieck : un héritage mathématique fertile](https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-heritage-mathematique-fertile-9237.php), J Malgoire
 - [Grothendieck : un génie des maths devenu ermite](https://www.pourlascience.fr/sr/article/grothendieck-un-genie-des-maths-devenu-ermite-9242.php), W Scharlau
 - [Grothendieck : un écrivain en quête de vérité](https://www.pourlascience.fr/sd/mathematiques/grothendieck-un-ecrivain-en-quete-de-verite-9239.php), L Schneps
@@ -171,8 +166,6 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [Alexandre Grothendieck, el genio rebelde](https://culturacientifica.com/2018/03/28/alexandre-grothendieck-el-genio-rebelde/)
 - [La vraie raison pour laquelle le mathématicien Alexandre Grothendieck s'est retiré du monde](https://www.lemonde.fr/idees/article/2014/11/17/la-vraie-raison-pour-laquelle-le-mathematicien-alexandre-grothendieck-s-est-retire-du-monde_4524868_3232.html)
 - [Alexandre Grothendieck, le plus grand mathématicien du XXe siècle, est mort](https://www.lemonde.fr/disparitions/article/2014/11/14/le-mathematicien-alexandre-grothendieck-est-mort_4523482_3382.html), S Foucart et P Pajot
-- [Visiting Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mohammad.pdf), Hedayatzadeh
-- Visiting Grothendieck [Katrina Honigs](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Katrina.pdf)
 - [Grothendieck, math enigma dies at 86](https://www.nytimes.com/2014/11/16/world/europe/alexander-grothendieck-math-enigma-dies-at-86.html)
 - [Grothendieck. Mathematical genius who went into self-exile dies at 86](https://www.washingtonpost.com/national/health-science/alexander-grothendieck-mathematical-genius-who-went-into-self-exile-dies-at-86/2014/11/15/1e65f69a-6cf2-11e4-9fb4-a622dae742a2_story.html)
 - [Alexander Grothendieck obituary](https://www.theguardian.com/science/2014/nov/25/alexander-grothendieck), H Shoolman
