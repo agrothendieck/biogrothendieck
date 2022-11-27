@@ -20,8 +20,8 @@
 
 ### Articles and Books
 
-- W. SCHARLAU. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? [Anarchy](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/Anarchy.pdf), [Mathematics](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics.html), [Spirituality](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality.html), Solitude)
-    - ---, [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
+- W. SCHARLAU and L SCHNEPS. *Wer ist Alexander Grothendieck? Anarchie, Mathematik, Spiritualität*, Einsamkeit. Eine Biographie. Translated from the German by Melissa Schneps (Who Is Alexandre Grothendieck? [Anarchy](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/Anarchy.pdf), [Mathematics](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathematics.html), [Spirituality](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Spirituality.html), Solitude)
+- W. SCHARLAU, [*Wer ist Alexander Grothendieck?*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/WerIstScharlau.pdf) Annual Report 2006 of the Mathematics Research Institute in Oberwolfach, Germany ([Who is Alexander Grothendieck?](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/whois.pdf))
     - ---, [Die Mutanten – Les Mutants – eine Meditation von Alexander Grothendieck](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Scharlau/TheMutantsScharlau.pdf)
     - ---, *Alexander Grothendieck (1928 – 2014)*. The Life of an Outsider
     - ---, [*Lebenslauf A. Grothendieck*](http://www.scharlau-online.de/DOKS/cv_groth.pdf), W Scharlau
