@@ -108,6 +108,13 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - M. KIRSCH. *Jean-Pierre Serre. Mon premier demi-siècle au Collège de France*. In: Holden, H., Piene, R. (eds) The Abel Prize. The Abel Prize. Springer, Berlin, Heidelberg. ([Translation](http://denise.vella.chemla.free.fr/avril6.pdf))
 - C.T. CHONG and Y.K LEONG. [*An interview with J. P. Serre*](https://sms.math.nus.edu.sg/smsmedley/Vol-13-1/An%20interview%20with%20Jean-Pierre%20Serre(CT%20Chong%20&%20YK%20Leong).pdf)
 - [*A tribute to H. Cartan*](https://www.ams.org/journals/notices/201008/201008-full-issue.pdf?cat=fullissue&trk=fullissue201008). Notices of the AMS, Sept 2010.
+- J. MILNE. [*Grothendieck and me*](https://www.jmilne.org/math/Documents/GrothendieckandMe.html), J Milne and Récoltes et Semailles
+
+
+
+
+
+
 
 ### Multimedia
 
@@ -128,6 +135,11 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [La Colline aux mille enfants](https://youtu.be/lBJjXJAhjss) par Jean-Louis Lorenzi avec Ottavia Piccolo, 1997. Movie about Le Chambon sur Lignon
 - [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg) ([Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8)) par Catherine Aïra, Yves Le Pestipon
 - [Rêves et Motifs](https://vimeo.com/235761098) par la Compagnie Les Rémouleurs.
+
+
+
+
+
 
 
 
