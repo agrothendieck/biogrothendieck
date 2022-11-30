@@ -31,7 +31,9 @@
 - Alexandre Grothendieck 1928–2014, [Part 1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS1.pdf), [Part 2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS2.pdf). Obituary AMS
 - P. CARTIER. [*A country of which nothing is known but the name: Grothendieck and "motives"*](http://landsburg.com/grothendieck/cartier.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
     - ---, [*A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry*](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
-    - --- *G for Grothendieck. The mathematical intelligence, the approach to the world, the behaviour of a genius who broke every rule*. Lettera Matematica volume 5, pages 113–118 (2017)
+    - ---, *G for Grothendieck. The mathematical intelligence, the approach to the world, the behaviour of a genius who broke every rule*. Lettera Matematica volume 5, pages 113–118 (2017)
+    - ---, [*Jean Dieudonné (1906-1992) mathematician*](http://classicalrealanalysis.info/documents/Dieudonne-cer-002575027.pdf)
+    - ---, [*Interview with Pierre Cartier*](http://javier.fresan.perso.math.cnrs.fr/castle-of-groups.pdf). The Castle of Groups. by J. Fresán
 - F. OORT. [*Did earlier thoughts inspire Grothendieck?*](https://webspace.science.uu.nl/~oort0109/AGRoots-final.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - R. HARTSHORNE. *An apprenticeship*. In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps.
 - V POÉNARU. [*Memories of Shourik*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/poenaru.pdf). Notices of the AMS, September 2008.
@@ -48,6 +50,7 @@
 - L. B VIALE. [*Alexander Grothendieck. Enthusiasm and Creativity*](http://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Mathbiographies/barbierieng.pdf) in Mathematical Lives (Springer, 2011) translation [*Alexander Grothendieck. Entusiasmo e creatività*](http://users.unimi.it/barbieri/grothendieck.pdf) article contained in the volume Vite matematiche (Springer, 2007) previously published as Grandi Matematici del Novecento (Vol. 50/51 Lettera Matematica Pristem, Springer) 
 - L. LAFFORGUE. [*Grothendieck et la liberté*](http://users.unimi.it/barbieri/GrothendieckLiberte.pdf) (Séminaire Grothendieck - March 23, 2015) and the italian version by Ugo Moschella [*Grothendieck e la libertà*](http://users.unimi.it/barbieri/LafforgueMilano.pdf). 
      - ---, [*Quelques corrections à un entretien de Jean-Pierre Bourguignon au sujet de Récoltes et Semailles*](https://www.laurentlafforgue.org/Corrections_Lafforgue_entretien_Bourguignon_Grothendieck_RS.pdf). Il s'agit d'un entretien donné en février 2022 à la revue ``Pour la science''. Des erreurs qu'il contient méritent d'autant plus d'être corrigées qu'elles sont représentatives de celles qui sont souvent colportées et circulent dans le monde académique à propos de Grothendieck et de Récoltes et Semailles. 
+     - ---, [*Geometry according to Grothendieck : glimpses from Récoltes et Semailles*](https://www.laurentlafforgue.org/Cours_Lafforgue_Como_septembre_2021.pdf), [video](https://youtu.be/-CtzBL83bf0). Ce sont les transparents d'un cours donné en septembre 2021 à Como, à la Villa Del Grumello, dans le cadre d'une école d'été organisée avec Olivia Caramello et Ivan Fesenko sous le titre ``Unifying themes in geometry''.
 - CALEB JI. [*Elements of Grothendieck's life and work*](https://math.columbia.edu/~calebji/Grothendieck.pdf). Talk
 - P. DELIGNE. *Interview for the Abel Prize*, Notices of AMS 61, 177 – 185
 - [*Une entrevue avec Jean Giraud, à Propos d'Alexandre Grothendieck*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/giraud.pdf), Le Journal de Maths 1, 63 – 65 (1994)
@@ -87,7 +90,6 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - *Alexandre Grothendieck: A Mathematical Portrait*. Edited by Leila Schneps.
 - J. DIEUDONNÉ. [*Les travaux d'Alexander Grothendieck*](https://agrothendieck.github.io/divers/travauxdieud.pdf). ICM 1966
 - J.-P SERRE. [*Rapport au comité Fields sur les travaux de A. Grothendieck*](https://agrothendieck.github.io/divers/rapportserre.pdf). $K$-Theory, 3:199–204, 1989 (1965).
-- L. LAFFORGUE, [*Geometry according to Grothendieck : glimpses from Récoltes et Semailles*](https://www.laurentlafforgue.org/Cours_Lafforgue_Como_septembre_2021.pdf). Ce sont les transparents d'un cours donné en septembre 2021 à Como, à la Villa Del Grumello, dans le cadre d'une école d'été organisée avec Olivia Caramello et Ivan Fesenko sous le titre ``Unifying themes in geometry''.
 - J. TATE. Boekbespreking [*Correspondance Grothendieck-Serre*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/TateReview.pdf). NAW 5/5 nr. 1 maart 2004 
 - P. DELIGNE. [*Quelques idées maîtresses de l'œuvre de A. Grothendieck*](https://publications.ias.edu/sites/default/files/77_Quelqyesidees.pdf), in Matériaux pour l'Histoire des Mathématiques au XXe Siècle (Nice, 1996), Soc. Math. France, 1998, pp. 11–19.
 - L. SCHNEPS. *A review of the Grothendieck-Serre Correspondence: "Long version" - "Short version"*. Reprinted from the Mathematical Intelligencer, Vol. 29 No. 4, 2007.
@@ -135,8 +137,8 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [La Colline aux mille enfants](https://youtu.be/lBJjXJAhjss) par Jean-Louis Lorenzi avec Ottavia Piccolo, 1997. Movie about Le Chambon sur Lignon
 - [Alexander Grothendieck, sur les routes d'un génie](https://youtu.be/4dV5YXwb7zg) ([Alexander Grothendieck, on a genius path](https://youtu.be/9GanmnPniO8)) par Catherine Aïra, Yves Le Pestipon
 - [Rêves et Motifs](https://vimeo.com/235761098) par la Compagnie Les Rémouleurs.
-
-
+- Luc Illusie - [Remembering the SGA’s](https://youtu.be/CT76bpRQRrk)
+- [A. Grothendieck, Le prophète des maths](https://youtu.be/7Pa4k4eCWj0) avec Leila Schneps
 
 
 
