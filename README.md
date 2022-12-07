@@ -139,7 +139,6 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [Rêves et Motifs](https://vimeo.com/235761098) par la Compagnie Les Rémouleurs.
 - Luc Illusie - [Remembering the SGA’s](https://youtu.be/CT76bpRQRrk)
 - [A. Grothendieck, Le prophète des maths](https://youtu.be/7Pa4k4eCWj0) avec Leila Schneps
-- O. A. LAUDAL. [*Alexander Grothendieck: 1928-2014. A stateless 20. century Mathematical Giant*](https://www.math.ntnu.no/seminarer/perler/2015-04-17_grothendieck.pdf), 2015
 
 
 
