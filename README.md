@@ -112,7 +112,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - [*A tribute to H. Cartan*](https://www.ams.org/journals/notices/201008/201008-full-issue.pdf?cat=fullissue&trk=fullissue201008). Notices of the AMS, Sept 2010.
 - J. MILNE. [*Grothendieck and me*](https://www.jmilne.org/math/Documents/GrothendieckandMe.html), J Milne and Récoltes et Semailles
 - [*An Interview with David Ruelle*](https://ems.press/content/serial-article-files/11510) by Hans Henrik Rugh. EMS Newsletter March 2020
-
+- O A LAUDAL. [*Alexander Grothendieck: 1928-2014*](https://www.math.ntnu.no/seminarer/perler/2015-04-17_grothendieck.pdf). A stateless 20. century Mathematical Giant. Talk, 2015.
 
 
 
