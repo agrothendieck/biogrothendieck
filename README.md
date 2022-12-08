@@ -113,7 +113,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - J. MILNE. [*Grothendieck and me*](https://www.jmilne.org/math/Documents/GrothendieckandMe.html), J Milne and Récoltes et Semailles
 - [*An Interview with David Ruelle*](https://ems.press/content/serial-article-files/11510) by Hans Henrik Rugh. EMS Newsletter March 2020
 - O A LAUDAL. [*Alexander Grothendieck: 1928-2014*](https://www.math.ntnu.no/seminarer/perler/2015-04-17_grothendieck.pdf). A stateless 20. century Mathematical Giant. Talk, 2015.
-
+- O. CARAMELLO. [*De Copernic à Grothendieck : la puissance du point de vue fécond*](https://aroundtoposes.com/wp-content/uploads/2022/12/CopernicGrothendieck.pdf), talk 2022
 
 
 
