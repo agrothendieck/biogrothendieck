@@ -73,6 +73,7 @@
 - E H LAAMRI. [*Alexander Grothendieck: période 1928-1956*](https://hal.archives-ouvertes.fr/hal-01314594/document). Bulletin d’information de l’Académie
 Hassan II des sciences et techniques, Académie Hassan II des sciences et techniques, 2015, 18, pp.67-79.
 - R BROWN. [*Alexander Grothendieck: some recollections*](http://groupoids.org.uk/pdffiles/AG-recollections.pdf)
+     - ---, [*Some Mathematical Issues in Correspondence with Alexander Grothendieck 1982-1991*](https://groupoids.org.uk/pdffiles/AGZoom.pdf), Talk 2020
 - C L CHAI and F OORT. [*Life and work of A. Grothendieck*](https://www2.math.upenn.edu/~chai/papers_pdf/ChaiFO-AG-final_v1.pdf). ICCM Notices 5 (2017), 22-50.
 - J. A NAVARRO. [*Apuntes Biográficos sobre A. Grothendieck*](http://matematicas.unex.es/~navarro/res/biografia.pdf) and a [*Letter*](http://matematicas.unex.es/~navarro/res/notices.pdf) to the Editor of the Notices of the AMS
 - R LISKER. [*Visiting Alexandre Grothendieck*](http://matematicas.unex.es/~navarro/res/liskerquest.pdf)
