@@ -197,3 +197,8 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [A. Grothendieck, la fascinante vida de un genio matemático](https://www.revistacienciasunam.com/pt/200-revistas/revista-ciencias-117/1944-alexander-grothendieck,-la-fascinante-vida-de-un-genio-matem\%C3\%A1tico.html), W Bietenholz
 - [Grothendieck, Gottendieck, Grothendieu. El genio sesentayochista de un matemático](https://www.fronterad.com/grothendieck-gottendieck-grothendieu-el-genio-sesentayochista-de-un-matematico/), X García Fronterad
 - [*Por las tangentes de Grothendieck, genio matemático irresoluble*](https://www.clarin.com/revista-enie/literatura/tangentes-grothendieck-genio-matematico-irresoluble_0_07RfumF4R.html), Clarín
+
+
+---
+
+This project is open-source, you can add missing entries. Get in touch!
