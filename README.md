@@ -74,6 +74,7 @@
 Hassan II des sciences et techniques, Académie Hassan II des sciences et techniques, 2015, 18, pp.67-79.
 - R BROWN. [*Alexander Grothendieck: some recollections*](http://groupoids.org.uk/pdffiles/AG-recollections.pdf)
      - ---, [*Some Mathematical Issues in Correspondence with Alexander Grothendieck 1982-1991*](https://groupoids.org.uk/pdffiles/AGZoom.pdf), Talk 2020
+     - ---, [*The origins of Alexander Grothendieck's "Pursuing Stacks"*](https://groupoids.org.uk/pstacks.html)
 - C L CHAI and F OORT. [*Life and work of A. Grothendieck*](https://www2.math.upenn.edu/~chai/papers_pdf/ChaiFO-AG-final_v1.pdf). ICCM Notices 5 (2017), 22-50.
 - J. A NAVARRO. [*Apuntes Biográficos sobre A. Grothendieck*](http://matematicas.unex.es/~navarro/res/biografia.pdf) and a [*Letter*](http://matematicas.unex.es/~navarro/res/notices.pdf) to the Editor of the Notices of the AMS
 - R LISKER. [*Visiting Alexandre Grothendieck*](http://matematicas.unex.es/~navarro/res/liskerquest.pdf)
@@ -100,7 +101,6 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - E GIRONDO, G GONZÁLES-DIEZ y D.T TEIGELL. [*La teoría de Belyi-Grothendieck de dessins d’enfants*](https://gaceta.rsme.es/abrir.php?id=1672) La Gaceta de la RSME, Vol. 25 (2022), Núm. 1, Págs. 55–83 
 - CH LIU and ST YAU. [*D-branes and Azumaya noncommutative geometry: From Polchinski to Grothendieck*](https://arxiv.org/abs/1003.1178)
 - E.J. DUBUC, C. SANCHEZ DE LA VEGA. [*On the Galois Theory of Grothendieck*](https://arxiv.org/abs/math/0009145)
-- R BROWN. [*The origins of Alexander Grothendieck's "Pursuing Stacks"*](https://groupoids.org.uk/pstacks.html)
 - L ILLUSIE. [*Alexandre Grothendieck, magicien des foncteurs*](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/Magicien.pdf)
 - J J Szczeciniarz. [*Prolégomènes à une étude philosophique de l’œuvre de Alexandre Grothendieck. Colloque en hommage à Grothendieck*](http://www.sphere.univ-paris-diderot.fr/IMG/pdf/JJSzczceziniarz_Grothendieck_Montreal.pdf)
 - C MCLARTY. *Grothendieck’s Unifying Vision of Geometry*. In: Kouneiher, J. (eds) Foundations of Mathematics and Physics One Century After Hilbert. Springer, Cham. 
