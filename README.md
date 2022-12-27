@@ -28,6 +28,7 @@
 - F. ZALAMEA. [*Grothendieck. Una guía a la obra matemática y filosofica*](http://matematicas.unex.es/~navarro/res/zalamea.pdf). Bogotá: Edtorial Nomos, 2019.
     - ---, [*Grothendieck: A Short Guide to His Mathematical and Philosophical Work (1949–1991)*](https://link.springer.com/referenceworkentry/10.1007/978-3-030-19071-2_27-1). In: Sriraman, B. (eds) Handbook of the History and Philosophy of Mathematical Practice. Springer, Cham.
     - ---, *Grothendieck. Visiones sobre la multiplicidad de su obra*, Bogotá: Universidad Nacional de Colombia - Editorial Nomos, 2017. 244 pp. ISBN 978-958-48-1157-8.
+    - ---, [*Alexander Grothendieck*](http://scm.org.co/archivos/revista/Articulos/1159.pdf). Lecturas Matemáticas, vol. 36 (1) (2015), pags. 93–112. [*Obituario*](http://funes.uniandes.edu.co/8715/1/Zalamea2015Orbituario.pdf), 2015. 
 - Alexandre Grothendieck 1928–2014, [Part 1](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS1.pdf), [Part 2](https://webusers.imj-prg.fr/~leila.schneps/grothendieckcircle/GrothObitAMS2.pdf). Obituary AMS
 - P. CARTIER. [*A country of which nothing is known but the name: Grothendieck and "motives"*](http://landsburg.com/grothendieck/cartier.pdf). In "Alexandre Grothendieck: A Mathematical Portrait." Edited by Leila Schneps. [Inference Review](https://inference-review.com/article/a-country-known-only-by-name)
     - ---, [*A mad day's work : from Grothendieck to Connes and Kontsevich. The evolution of concepts of space and symmetry*](https://www.ams.org/journals/bull/2001-38-04/S0273-0979-01-00913-2/S0273-0979-01-00913-2.pdf) (traduit du français par Roger Cooke). Bull. Amer. Math. Soc. (N.S.), 38  (2001), 389-408.
@@ -116,7 +117,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - O A LAUDAL. [*Alexander Grothendieck: 1928-2014*](https://www.math.ntnu.no/seminarer/perler/2015-04-17_grothendieck.pdf). A stateless 20. century Mathematical Giant. Talk, 2015.
 - O. CARAMELLO. [*De Copernic à Grothendieck : la puissance du point de vue fécond*](https://aroundtoposes.com/wp-content/uploads/2022/12/CopernicGrothendieck.pdf), talk 2022
 - N. FORMANEK und J. WEINBERGER. [*Alexander Grothendieck – Notwendige Einsamkeit*](https://jonathanweinberger.files.wordpress.com/2014/08/groth-handout.pdf), 2012
-- LESMES. J. [*Alexander Grothendieck*](http://scm.org.co/archivos/revista/Articulos/1159.pdf). Lecturas Matemáticas, vol. 36 (1) (2015), pags. 93–112 
+
 
 
 ### Multimedia
