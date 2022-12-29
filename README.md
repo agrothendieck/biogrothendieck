@@ -199,6 +199,9 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [Grothendieck, Gottendieck, Grothendieu. El genio sesentayochista de un matemático](https://www.fronterad.com/grothendieck-gottendieck-grothendieu-el-genio-sesentayochista-de-un-matematico/), X García Fronterad
 - [*Por las tangentes de Grothendieck, genio matemático irresoluble*](https://www.clarin.com/revista-enie/literatura/tangentes-grothendieck-genio-matematico-irresoluble_0_07RfumF4R.html), Clarín
 - [*Aux marches du palais*](https://www.en-attendant-nadeau.fr/2022/08/26/marches-palais-grothendieck/) par Pascal Engel
+- [*The Forgotten Mathematical Genius Who Laid the Foundations of Modern Algebraic Geometry*](https://piggsboson.medium.com/the-forgotten-mathematical-genius-who-laid-the-foundations-of-modern-algebraic-geometry-c64a615141c2) by S Labh
+
+
 
 ---
 
