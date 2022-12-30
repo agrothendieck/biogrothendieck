@@ -117,7 +117,7 @@ Hassan II des sciences et techniques, Académie Hassan II des sciences et techni
 - O A LAUDAL. [*Alexander Grothendieck: 1928-2014*](https://www.math.ntnu.no/seminarer/perler/2015-04-17_grothendieck.pdf). A stateless 20. century Mathematical Giant. Talk, 2015.
 - O. CARAMELLO. [*De Copernic à Grothendieck : la puissance du point de vue fécond*](https://aroundtoposes.com/wp-content/uploads/2022/12/CopernicGrothendieck.pdf), talk 2022
 - N. FORMANEK und J. WEINBERGER. [*Alexander Grothendieck – Notwendige Einsamkeit*](https://jonathanweinberger.files.wordpress.com/2014/08/groth-handout.pdf), 2012
-
+- P SCHAPIRA. [*A Truncated Manuscript*](https://inference-review.com/article/a-truncated-manuscript). Inference review, 2022
 
 
 ### Multimedia
