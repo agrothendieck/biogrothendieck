@@ -203,6 +203,6 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [*La palinodie d’Alexandre Grothendieck à la lumière de René Guénon*](https://www.juanasensio.com/archive/2022/12/28/la-palinodie-d-alexandre-grothendieck-a-la-lumiere-de-rene-guenon.html) par Gregory Mion
 - [Sciences. Mais à quoi pensait Grothendieck ?**](https://www.humanite.fr/societe/sciences-mais-quoi-pensait-grothendieck-635992), L. Mouloud. L'humanité
 - [*Saint-Girons. La biographie romanesque d'Alexandre Grothendieck*](https://www.ladepeche.fr/article/2016/03/22/2308875-la-biographie-romanesque-d-alexandre-grothendieck.html). Ladepeche
-
+- [*Montpellier : l’œuvre de Grothendieck offerte à l’intelligence humaine*](https://www.midilibre.fr/2017/05/11/montpellier-l-oeuvre-de-grothendieck-offerte-a-l-intelligence-humaine,1505395.php). Midi Libre
 
 ---
