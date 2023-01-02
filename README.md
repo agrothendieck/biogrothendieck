@@ -201,8 +201,8 @@ Alexander Grothendieck was revered for revealing connections between seemingly u
 - [*Aux marches du palais*](https://www.en-attendant-nadeau.fr/2022/08/26/marches-palais-grothendieck/) par Pascal Engel
 - [*The Forgotten Mathematical Genius Who Laid the Foundations of Modern Algebraic Geometry*](https://piggsboson.medium.com/the-forgotten-mathematical-genius-who-laid-the-foundations-of-modern-algebraic-geometry-c64a615141c2) by S Labh
 - [*La palinodie d’Alexandre Grothendieck à la lumière de René Guénon*](https://www.juanasensio.com/archive/2022/12/28/la-palinodie-d-alexandre-grothendieck-a-la-lumiere-de-rene-guenon.html) par Gregory Mion
+- [Sciences. Mais à quoi pensait Grothendieck ?**](https://www.humanite.fr/societe/sciences-mais-quoi-pensait-grothendieck-635992), L. Mouloud. L'humanité
+
 
 
 ---
-
-
